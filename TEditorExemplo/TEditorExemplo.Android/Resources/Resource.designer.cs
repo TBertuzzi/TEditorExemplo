@@ -26,6 +26,1291 @@ namespace TEditorExemplo.Droid
 		
 		public static void UpdateIdValues()
 		{
+			global::TEditor.Resource.Animation.abc_fade_in = global::TEditorExemplo.Droid.Resource.Animation.abc_fade_in;
+			global::TEditor.Resource.Animation.abc_fade_out = global::TEditorExemplo.Droid.Resource.Animation.abc_fade_out;
+			global::TEditor.Resource.Animation.abc_grow_fade_in_from_bottom = global::TEditorExemplo.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::TEditor.Resource.Animation.abc_popup_enter = global::TEditorExemplo.Droid.Resource.Animation.abc_popup_enter;
+			global::TEditor.Resource.Animation.abc_popup_exit = global::TEditorExemplo.Droid.Resource.Animation.abc_popup_exit;
+			global::TEditor.Resource.Animation.abc_shrink_fade_out_from_bottom = global::TEditorExemplo.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::TEditor.Resource.Animation.abc_slide_in_bottom = global::TEditorExemplo.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::TEditor.Resource.Animation.abc_slide_in_top = global::TEditorExemplo.Droid.Resource.Animation.abc_slide_in_top;
+			global::TEditor.Resource.Animation.abc_slide_out_bottom = global::TEditorExemplo.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::TEditor.Resource.Animation.abc_slide_out_top = global::TEditorExemplo.Droid.Resource.Animation.abc_slide_out_top;
+			global::TEditor.Resource.Attribute.actionBarDivider = global::TEditorExemplo.Droid.Resource.Attribute.actionBarDivider;
+			global::TEditor.Resource.Attribute.actionBarItemBackground = global::TEditorExemplo.Droid.Resource.Attribute.actionBarItemBackground;
+			global::TEditor.Resource.Attribute.actionBarPopupTheme = global::TEditorExemplo.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::TEditor.Resource.Attribute.actionBarSize = global::TEditorExemplo.Droid.Resource.Attribute.actionBarSize;
+			global::TEditor.Resource.Attribute.actionBarSplitStyle = global::TEditorExemplo.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::TEditor.Resource.Attribute.actionBarStyle = global::TEditorExemplo.Droid.Resource.Attribute.actionBarStyle;
+			global::TEditor.Resource.Attribute.actionBarTabBarStyle = global::TEditorExemplo.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::TEditor.Resource.Attribute.actionBarTabStyle = global::TEditorExemplo.Droid.Resource.Attribute.actionBarTabStyle;
+			global::TEditor.Resource.Attribute.actionBarTabTextStyle = global::TEditorExemplo.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::TEditor.Resource.Attribute.actionBarTheme = global::TEditorExemplo.Droid.Resource.Attribute.actionBarTheme;
+			global::TEditor.Resource.Attribute.actionBarWidgetTheme = global::TEditorExemplo.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::TEditor.Resource.Attribute.actionButtonStyle = global::TEditorExemplo.Droid.Resource.Attribute.actionButtonStyle;
+			global::TEditor.Resource.Attribute.actionDropDownStyle = global::TEditorExemplo.Droid.Resource.Attribute.actionDropDownStyle;
+			global::TEditor.Resource.Attribute.actionLayout = global::TEditorExemplo.Droid.Resource.Attribute.actionLayout;
+			global::TEditor.Resource.Attribute.actionMenuTextAppearance = global::TEditorExemplo.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::TEditor.Resource.Attribute.actionMenuTextColor = global::TEditorExemplo.Droid.Resource.Attribute.actionMenuTextColor;
+			global::TEditor.Resource.Attribute.actionModeBackground = global::TEditorExemplo.Droid.Resource.Attribute.actionModeBackground;
+			global::TEditor.Resource.Attribute.actionModeCloseButtonStyle = global::TEditorExemplo.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::TEditor.Resource.Attribute.actionModeCloseDrawable = global::TEditorExemplo.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::TEditor.Resource.Attribute.actionModeCopyDrawable = global::TEditorExemplo.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::TEditor.Resource.Attribute.actionModeCutDrawable = global::TEditorExemplo.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::TEditor.Resource.Attribute.actionModeFindDrawable = global::TEditorExemplo.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::TEditor.Resource.Attribute.actionModePasteDrawable = global::TEditorExemplo.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::TEditor.Resource.Attribute.actionModePopupWindowStyle = global::TEditorExemplo.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::TEditor.Resource.Attribute.actionModeSelectAllDrawable = global::TEditorExemplo.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::TEditor.Resource.Attribute.actionModeShareDrawable = global::TEditorExemplo.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::TEditor.Resource.Attribute.actionModeSplitBackground = global::TEditorExemplo.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::TEditor.Resource.Attribute.actionModeStyle = global::TEditorExemplo.Droid.Resource.Attribute.actionModeStyle;
+			global::TEditor.Resource.Attribute.actionModeWebSearchDrawable = global::TEditorExemplo.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::TEditor.Resource.Attribute.actionOverflowButtonStyle = global::TEditorExemplo.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::TEditor.Resource.Attribute.actionOverflowMenuStyle = global::TEditorExemplo.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::TEditor.Resource.Attribute.actionProviderClass = global::TEditorExemplo.Droid.Resource.Attribute.actionProviderClass;
+			global::TEditor.Resource.Attribute.actionViewClass = global::TEditorExemplo.Droid.Resource.Attribute.actionViewClass;
+			global::TEditor.Resource.Attribute.activityChooserViewStyle = global::TEditorExemplo.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::TEditor.Resource.Attribute.alertDialogButtonGroupStyle = global::TEditorExemplo.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::TEditor.Resource.Attribute.alertDialogCenterButtons = global::TEditorExemplo.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::TEditor.Resource.Attribute.alertDialogStyle = global::TEditorExemplo.Droid.Resource.Attribute.alertDialogStyle;
+			global::TEditor.Resource.Attribute.alertDialogTheme = global::TEditorExemplo.Droid.Resource.Attribute.alertDialogTheme;
+			global::TEditor.Resource.Attribute.allowStacking = global::TEditorExemplo.Droid.Resource.Attribute.allowStacking;
+			global::TEditor.Resource.Attribute.arrowHeadLength = global::TEditorExemplo.Droid.Resource.Attribute.arrowHeadLength;
+			global::TEditor.Resource.Attribute.arrowShaftLength = global::TEditorExemplo.Droid.Resource.Attribute.arrowShaftLength;
+			global::TEditor.Resource.Attribute.autoCompleteTextViewStyle = global::TEditorExemplo.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::TEditor.Resource.Attribute.background = global::TEditorExemplo.Droid.Resource.Attribute.background;
+			global::TEditor.Resource.Attribute.backgroundSplit = global::TEditorExemplo.Droid.Resource.Attribute.backgroundSplit;
+			global::TEditor.Resource.Attribute.backgroundStacked = global::TEditorExemplo.Droid.Resource.Attribute.backgroundStacked;
+			global::TEditor.Resource.Attribute.backgroundTint = global::TEditorExemplo.Droid.Resource.Attribute.backgroundTint;
+			global::TEditor.Resource.Attribute.backgroundTintMode = global::TEditorExemplo.Droid.Resource.Attribute.backgroundTintMode;
+			global::TEditor.Resource.Attribute.barLength = global::TEditorExemplo.Droid.Resource.Attribute.barLength;
+			global::TEditor.Resource.Attribute.borderlessButtonStyle = global::TEditorExemplo.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::TEditor.Resource.Attribute.buttonBarButtonStyle = global::TEditorExemplo.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::TEditor.Resource.Attribute.buttonBarNegativeButtonStyle = global::TEditorExemplo.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::TEditor.Resource.Attribute.buttonBarNeutralButtonStyle = global::TEditorExemplo.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::TEditor.Resource.Attribute.buttonBarPositiveButtonStyle = global::TEditorExemplo.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::TEditor.Resource.Attribute.buttonBarStyle = global::TEditorExemplo.Droid.Resource.Attribute.buttonBarStyle;
+			global::TEditor.Resource.Attribute.buttonPanelSideLayout = global::TEditorExemplo.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::TEditor.Resource.Attribute.buttonStyle = global::TEditorExemplo.Droid.Resource.Attribute.buttonStyle;
+			global::TEditor.Resource.Attribute.buttonStyleSmall = global::TEditorExemplo.Droid.Resource.Attribute.buttonStyleSmall;
+			global::TEditor.Resource.Attribute.buttonTint = global::TEditorExemplo.Droid.Resource.Attribute.buttonTint;
+			global::TEditor.Resource.Attribute.buttonTintMode = global::TEditorExemplo.Droid.Resource.Attribute.buttonTintMode;
+			global::TEditor.Resource.Attribute.checkboxStyle = global::TEditorExemplo.Droid.Resource.Attribute.checkboxStyle;
+			global::TEditor.Resource.Attribute.checkedTextViewStyle = global::TEditorExemplo.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::TEditor.Resource.Attribute.closeIcon = global::TEditorExemplo.Droid.Resource.Attribute.closeIcon;
+			global::TEditor.Resource.Attribute.closeItemLayout = global::TEditorExemplo.Droid.Resource.Attribute.closeItemLayout;
+			global::TEditor.Resource.Attribute.collapseContentDescription = global::TEditorExemplo.Droid.Resource.Attribute.collapseContentDescription;
+			global::TEditor.Resource.Attribute.collapseIcon = global::TEditorExemplo.Droid.Resource.Attribute.collapseIcon;
+			global::TEditor.Resource.Attribute.color = global::TEditorExemplo.Droid.Resource.Attribute.color;
+			global::TEditor.Resource.Attribute.colorAccent = global::TEditorExemplo.Droid.Resource.Attribute.colorAccent;
+			global::TEditor.Resource.Attribute.colorButtonNormal = global::TEditorExemplo.Droid.Resource.Attribute.colorButtonNormal;
+			global::TEditor.Resource.Attribute.colorControlActivated = global::TEditorExemplo.Droid.Resource.Attribute.colorControlActivated;
+			global::TEditor.Resource.Attribute.colorControlHighlight = global::TEditorExemplo.Droid.Resource.Attribute.colorControlHighlight;
+			global::TEditor.Resource.Attribute.colorControlNormal = global::TEditorExemplo.Droid.Resource.Attribute.colorControlNormal;
+			global::TEditor.Resource.Attribute.colorPrimary = global::TEditorExemplo.Droid.Resource.Attribute.colorPrimary;
+			global::TEditor.Resource.Attribute.colorPrimaryDark = global::TEditorExemplo.Droid.Resource.Attribute.colorPrimaryDark;
+			global::TEditor.Resource.Attribute.colorSwitchThumbNormal = global::TEditorExemplo.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::TEditor.Resource.Attribute.commitIcon = global::TEditorExemplo.Droid.Resource.Attribute.commitIcon;
+			global::TEditor.Resource.Attribute.contentInsetEnd = global::TEditorExemplo.Droid.Resource.Attribute.contentInsetEnd;
+			global::TEditor.Resource.Attribute.contentInsetLeft = global::TEditorExemplo.Droid.Resource.Attribute.contentInsetLeft;
+			global::TEditor.Resource.Attribute.contentInsetRight = global::TEditorExemplo.Droid.Resource.Attribute.contentInsetRight;
+			global::TEditor.Resource.Attribute.contentInsetStart = global::TEditorExemplo.Droid.Resource.Attribute.contentInsetStart;
+			global::TEditor.Resource.Attribute.controlBackground = global::TEditorExemplo.Droid.Resource.Attribute.controlBackground;
+			global::TEditor.Resource.Attribute.customNavigationLayout = global::TEditorExemplo.Droid.Resource.Attribute.customNavigationLayout;
+			global::TEditor.Resource.Attribute.defaultQueryHint = global::TEditorExemplo.Droid.Resource.Attribute.defaultQueryHint;
+			global::TEditor.Resource.Attribute.dialogPreferredPadding = global::TEditorExemplo.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::TEditor.Resource.Attribute.dialogTheme = global::TEditorExemplo.Droid.Resource.Attribute.dialogTheme;
+			global::TEditor.Resource.Attribute.displayOptions = global::TEditorExemplo.Droid.Resource.Attribute.displayOptions;
+			global::TEditor.Resource.Attribute.divider = global::TEditorExemplo.Droid.Resource.Attribute.divider;
+			global::TEditor.Resource.Attribute.dividerHorizontal = global::TEditorExemplo.Droid.Resource.Attribute.dividerHorizontal;
+			global::TEditor.Resource.Attribute.dividerPadding = global::TEditorExemplo.Droid.Resource.Attribute.dividerPadding;
+			global::TEditor.Resource.Attribute.dividerVertical = global::TEditorExemplo.Droid.Resource.Attribute.dividerVertical;
+			global::TEditor.Resource.Attribute.drawableSize = global::TEditorExemplo.Droid.Resource.Attribute.drawableSize;
+			global::TEditor.Resource.Attribute.drawerArrowStyle = global::TEditorExemplo.Droid.Resource.Attribute.drawerArrowStyle;
+			global::TEditor.Resource.Attribute.dropDownListViewStyle = global::TEditorExemplo.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::TEditor.Resource.Attribute.dropdownListPreferredItemHeight = global::TEditorExemplo.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::TEditor.Resource.Attribute.editTextBackground = global::TEditorExemplo.Droid.Resource.Attribute.editTextBackground;
+			global::TEditor.Resource.Attribute.editTextColor = global::TEditorExemplo.Droid.Resource.Attribute.editTextColor;
+			global::TEditor.Resource.Attribute.editTextStyle = global::TEditorExemplo.Droid.Resource.Attribute.editTextStyle;
+			global::TEditor.Resource.Attribute.elevation = global::TEditorExemplo.Droid.Resource.Attribute.elevation;
+			global::TEditor.Resource.Attribute.expandActivityOverflowButtonDrawable = global::TEditorExemplo.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::TEditor.Resource.Attribute.gapBetweenBars = global::TEditorExemplo.Droid.Resource.Attribute.gapBetweenBars;
+			global::TEditor.Resource.Attribute.goIcon = global::TEditorExemplo.Droid.Resource.Attribute.goIcon;
+			global::TEditor.Resource.Attribute.height = global::TEditorExemplo.Droid.Resource.Attribute.height;
+			global::TEditor.Resource.Attribute.hideOnContentScroll = global::TEditorExemplo.Droid.Resource.Attribute.hideOnContentScroll;
+			global::TEditor.Resource.Attribute.homeAsUpIndicator = global::TEditorExemplo.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::TEditor.Resource.Attribute.homeLayout = global::TEditorExemplo.Droid.Resource.Attribute.homeLayout;
+			global::TEditor.Resource.Attribute.icon = global::TEditorExemplo.Droid.Resource.Attribute.icon;
+			global::TEditor.Resource.Attribute.iconifiedByDefault = global::TEditorExemplo.Droid.Resource.Attribute.iconifiedByDefault;
+			global::TEditor.Resource.Attribute.imageButtonStyle = global::TEditorExemplo.Droid.Resource.Attribute.imageButtonStyle;
+			global::TEditor.Resource.Attribute.indeterminateProgressStyle = global::TEditorExemplo.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::TEditor.Resource.Attribute.initialActivityCount = global::TEditorExemplo.Droid.Resource.Attribute.initialActivityCount;
+			global::TEditor.Resource.Attribute.isLightTheme = global::TEditorExemplo.Droid.Resource.Attribute.isLightTheme;
+			global::TEditor.Resource.Attribute.itemPadding = global::TEditorExemplo.Droid.Resource.Attribute.itemPadding;
+			global::TEditor.Resource.Attribute.layout = global::TEditorExemplo.Droid.Resource.Attribute.layout;
+			global::TEditor.Resource.Attribute.listChoiceBackgroundIndicator = global::TEditorExemplo.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::TEditor.Resource.Attribute.listDividerAlertDialog = global::TEditorExemplo.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::TEditor.Resource.Attribute.listItemLayout = global::TEditorExemplo.Droid.Resource.Attribute.listItemLayout;
+			global::TEditor.Resource.Attribute.listLayout = global::TEditorExemplo.Droid.Resource.Attribute.listLayout;
+			global::TEditor.Resource.Attribute.listPopupWindowStyle = global::TEditorExemplo.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::TEditor.Resource.Attribute.listPreferredItemHeight = global::TEditorExemplo.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::TEditor.Resource.Attribute.listPreferredItemHeightLarge = global::TEditorExemplo.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::TEditor.Resource.Attribute.listPreferredItemHeightSmall = global::TEditorExemplo.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::TEditor.Resource.Attribute.listPreferredItemPaddingLeft = global::TEditorExemplo.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::TEditor.Resource.Attribute.listPreferredItemPaddingRight = global::TEditorExemplo.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::TEditor.Resource.Attribute.logo = global::TEditorExemplo.Droid.Resource.Attribute.logo;
+			global::TEditor.Resource.Attribute.logoDescription = global::TEditorExemplo.Droid.Resource.Attribute.logoDescription;
+			global::TEditor.Resource.Attribute.maxButtonHeight = global::TEditorExemplo.Droid.Resource.Attribute.maxButtonHeight;
+			global::TEditor.Resource.Attribute.measureWithLargestChild = global::TEditorExemplo.Droid.Resource.Attribute.measureWithLargestChild;
+			global::TEditor.Resource.Attribute.multiChoiceItemLayout = global::TEditorExemplo.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::TEditor.Resource.Attribute.navigationContentDescription = global::TEditorExemplo.Droid.Resource.Attribute.navigationContentDescription;
+			global::TEditor.Resource.Attribute.navigationIcon = global::TEditorExemplo.Droid.Resource.Attribute.navigationIcon;
+			global::TEditor.Resource.Attribute.navigationMode = global::TEditorExemplo.Droid.Resource.Attribute.navigationMode;
+			global::TEditor.Resource.Attribute.overlapAnchor = global::TEditorExemplo.Droid.Resource.Attribute.overlapAnchor;
+			global::TEditor.Resource.Attribute.paddingEnd = global::TEditorExemplo.Droid.Resource.Attribute.paddingEnd;
+			global::TEditor.Resource.Attribute.paddingStart = global::TEditorExemplo.Droid.Resource.Attribute.paddingStart;
+			global::TEditor.Resource.Attribute.panelBackground = global::TEditorExemplo.Droid.Resource.Attribute.panelBackground;
+			global::TEditor.Resource.Attribute.panelMenuListTheme = global::TEditorExemplo.Droid.Resource.Attribute.panelMenuListTheme;
+			global::TEditor.Resource.Attribute.panelMenuListWidth = global::TEditorExemplo.Droid.Resource.Attribute.panelMenuListWidth;
+			global::TEditor.Resource.Attribute.popupMenuStyle = global::TEditorExemplo.Droid.Resource.Attribute.popupMenuStyle;
+			global::TEditor.Resource.Attribute.popupTheme = global::TEditorExemplo.Droid.Resource.Attribute.popupTheme;
+			global::TEditor.Resource.Attribute.popupWindowStyle = global::TEditorExemplo.Droid.Resource.Attribute.popupWindowStyle;
+			global::TEditor.Resource.Attribute.preserveIconSpacing = global::TEditorExemplo.Droid.Resource.Attribute.preserveIconSpacing;
+			global::TEditor.Resource.Attribute.progressBarPadding = global::TEditorExemplo.Droid.Resource.Attribute.progressBarPadding;
+			global::TEditor.Resource.Attribute.progressBarStyle = global::TEditorExemplo.Droid.Resource.Attribute.progressBarStyle;
+			global::TEditor.Resource.Attribute.queryBackground = global::TEditorExemplo.Droid.Resource.Attribute.queryBackground;
+			global::TEditor.Resource.Attribute.queryHint = global::TEditorExemplo.Droid.Resource.Attribute.queryHint;
+			global::TEditor.Resource.Attribute.radioButtonStyle = global::TEditorExemplo.Droid.Resource.Attribute.radioButtonStyle;
+			global::TEditor.Resource.Attribute.ratingBarStyle = global::TEditorExemplo.Droid.Resource.Attribute.ratingBarStyle;
+			global::TEditor.Resource.Attribute.ratingBarStyleIndicator = global::TEditorExemplo.Droid.Resource.Attribute.ratingBarStyleIndicator;
+			global::TEditor.Resource.Attribute.ratingBarStyleSmall = global::TEditorExemplo.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::TEditor.Resource.Attribute.searchHintIcon = global::TEditorExemplo.Droid.Resource.Attribute.searchHintIcon;
+			global::TEditor.Resource.Attribute.searchIcon = global::TEditorExemplo.Droid.Resource.Attribute.searchIcon;
+			global::TEditor.Resource.Attribute.searchViewStyle = global::TEditorExemplo.Droid.Resource.Attribute.searchViewStyle;
+			global::TEditor.Resource.Attribute.seekBarStyle = global::TEditorExemplo.Droid.Resource.Attribute.seekBarStyle;
+			global::TEditor.Resource.Attribute.selectableItemBackground = global::TEditorExemplo.Droid.Resource.Attribute.selectableItemBackground;
+			global::TEditor.Resource.Attribute.selectableItemBackgroundBorderless = global::TEditorExemplo.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::TEditor.Resource.Attribute.showAsAction = global::TEditorExemplo.Droid.Resource.Attribute.showAsAction;
+			global::TEditor.Resource.Attribute.showDividers = global::TEditorExemplo.Droid.Resource.Attribute.showDividers;
+			global::TEditor.Resource.Attribute.showText = global::TEditorExemplo.Droid.Resource.Attribute.showText;
+			global::TEditor.Resource.Attribute.singleChoiceItemLayout = global::TEditorExemplo.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::TEditor.Resource.Attribute.spinBars = global::TEditorExemplo.Droid.Resource.Attribute.spinBars;
+			global::TEditor.Resource.Attribute.spinnerDropDownItemStyle = global::TEditorExemplo.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::TEditor.Resource.Attribute.spinnerStyle = global::TEditorExemplo.Droid.Resource.Attribute.spinnerStyle;
+			global::TEditor.Resource.Attribute.splitTrack = global::TEditorExemplo.Droid.Resource.Attribute.splitTrack;
+			global::TEditor.Resource.Attribute.srcCompat = global::TEditorExemplo.Droid.Resource.Attribute.srcCompat;
+			global::TEditor.Resource.Attribute.state_above_anchor = global::TEditorExemplo.Droid.Resource.Attribute.state_above_anchor;
+			global::TEditor.Resource.Attribute.submitBackground = global::TEditorExemplo.Droid.Resource.Attribute.submitBackground;
+			global::TEditor.Resource.Attribute.subtitle = global::TEditorExemplo.Droid.Resource.Attribute.subtitle;
+			global::TEditor.Resource.Attribute.subtitleTextAppearance = global::TEditorExemplo.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::TEditor.Resource.Attribute.subtitleTextColor = global::TEditorExemplo.Droid.Resource.Attribute.subtitleTextColor;
+			global::TEditor.Resource.Attribute.subtitleTextStyle = global::TEditorExemplo.Droid.Resource.Attribute.subtitleTextStyle;
+			global::TEditor.Resource.Attribute.suggestionRowLayout = global::TEditorExemplo.Droid.Resource.Attribute.suggestionRowLayout;
+			global::TEditor.Resource.Attribute.switchMinWidth = global::TEditorExemplo.Droid.Resource.Attribute.switchMinWidth;
+			global::TEditor.Resource.Attribute.switchPadding = global::TEditorExemplo.Droid.Resource.Attribute.switchPadding;
+			global::TEditor.Resource.Attribute.switchStyle = global::TEditorExemplo.Droid.Resource.Attribute.switchStyle;
+			global::TEditor.Resource.Attribute.switchTextAppearance = global::TEditorExemplo.Droid.Resource.Attribute.switchTextAppearance;
+			global::TEditor.Resource.Attribute.textAllCaps = global::TEditorExemplo.Droid.Resource.Attribute.textAllCaps;
+			global::TEditor.Resource.Attribute.textAppearanceLargePopupMenu = global::TEditorExemplo.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::TEditor.Resource.Attribute.textAppearanceListItem = global::TEditorExemplo.Droid.Resource.Attribute.textAppearanceListItem;
+			global::TEditor.Resource.Attribute.textAppearanceListItemSmall = global::TEditorExemplo.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::TEditor.Resource.Attribute.textAppearanceSearchResultSubtitle = global::TEditorExemplo.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::TEditor.Resource.Attribute.textAppearanceSearchResultTitle = global::TEditorExemplo.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::TEditor.Resource.Attribute.textAppearanceSmallPopupMenu = global::TEditorExemplo.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::TEditor.Resource.Attribute.textColorAlertDialogListItem = global::TEditorExemplo.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::TEditor.Resource.Attribute.textColorSearchUrl = global::TEditorExemplo.Droid.Resource.Attribute.textColorSearchUrl;
+			global::TEditor.Resource.Attribute.theme = global::TEditorExemplo.Droid.Resource.Attribute.theme;
+			global::TEditor.Resource.Attribute.thickness = global::TEditorExemplo.Droid.Resource.Attribute.thickness;
+			global::TEditor.Resource.Attribute.thumbTextPadding = global::TEditorExemplo.Droid.Resource.Attribute.thumbTextPadding;
+			global::TEditor.Resource.Attribute.title = global::TEditorExemplo.Droid.Resource.Attribute.title;
+			global::TEditor.Resource.Attribute.titleMarginBottom = global::TEditorExemplo.Droid.Resource.Attribute.titleMarginBottom;
+			global::TEditor.Resource.Attribute.titleMarginEnd = global::TEditorExemplo.Droid.Resource.Attribute.titleMarginEnd;
+			global::TEditor.Resource.Attribute.titleMarginStart = global::TEditorExemplo.Droid.Resource.Attribute.titleMarginStart;
+			global::TEditor.Resource.Attribute.titleMarginTop = global::TEditorExemplo.Droid.Resource.Attribute.titleMarginTop;
+			global::TEditor.Resource.Attribute.titleMargins = global::TEditorExemplo.Droid.Resource.Attribute.titleMargins;
+			global::TEditor.Resource.Attribute.titleTextAppearance = global::TEditorExemplo.Droid.Resource.Attribute.titleTextAppearance;
+			global::TEditor.Resource.Attribute.titleTextColor = global::TEditorExemplo.Droid.Resource.Attribute.titleTextColor;
+			global::TEditor.Resource.Attribute.titleTextStyle = global::TEditorExemplo.Droid.Resource.Attribute.titleTextStyle;
+			global::TEditor.Resource.Attribute.toolbarNavigationButtonStyle = global::TEditorExemplo.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::TEditor.Resource.Attribute.toolbarStyle = global::TEditorExemplo.Droid.Resource.Attribute.toolbarStyle;
+			global::TEditor.Resource.Attribute.track = global::TEditorExemplo.Droid.Resource.Attribute.track;
+			global::TEditor.Resource.Attribute.voiceIcon = global::TEditorExemplo.Droid.Resource.Attribute.voiceIcon;
+			global::TEditor.Resource.Attribute.windowActionBar = global::TEditorExemplo.Droid.Resource.Attribute.windowActionBar;
+			global::TEditor.Resource.Attribute.windowActionBarOverlay = global::TEditorExemplo.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::TEditor.Resource.Attribute.windowActionModeOverlay = global::TEditorExemplo.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::TEditor.Resource.Attribute.windowFixedHeightMajor = global::TEditorExemplo.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::TEditor.Resource.Attribute.windowFixedHeightMinor = global::TEditorExemplo.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::TEditor.Resource.Attribute.windowFixedWidthMajor = global::TEditorExemplo.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::TEditor.Resource.Attribute.windowFixedWidthMinor = global::TEditorExemplo.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::TEditor.Resource.Attribute.windowMinWidthMajor = global::TEditorExemplo.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::TEditor.Resource.Attribute.windowMinWidthMinor = global::TEditorExemplo.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::TEditor.Resource.Attribute.windowNoTitle = global::TEditorExemplo.Droid.Resource.Attribute.windowNoTitle;
+			global::TEditor.Resource.Boolean.abc_action_bar_embed_tabs = global::TEditorExemplo.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::TEditor.Resource.Boolean.abc_allow_stacked_button_bar = global::TEditorExemplo.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::TEditor.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::TEditorExemplo.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::TEditor.Resource.Boolean.abc_config_closeDialogWhenTouchOutside = global::TEditorExemplo.Droid.Resource.Boolean.abc_config_closeDialogWhenTouchOutside;
+			global::TEditor.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent = global::TEditorExemplo.Droid.Resource.Boolean.abc_config_showMenuShortcutsWhenKeyboardPresent;
+			global::TEditor.Resource.Color.abc_background_cache_hint_selector_material_dark = global::TEditorExemplo.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::TEditor.Resource.Color.abc_background_cache_hint_selector_material_light = global::TEditorExemplo.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::TEditor.Resource.Color.abc_color_highlight_material = global::TEditorExemplo.Droid.Resource.Color.abc_color_highlight_material;
+			global::TEditor.Resource.Color.abc_input_method_navigation_guard = global::TEditorExemplo.Droid.Resource.Color.abc_input_method_navigation_guard;
+			global::TEditor.Resource.Color.abc_primary_text_disable_only_material_dark = global::TEditorExemplo.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::TEditor.Resource.Color.abc_primary_text_disable_only_material_light = global::TEditorExemplo.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::TEditor.Resource.Color.abc_primary_text_material_dark = global::TEditorExemplo.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::TEditor.Resource.Color.abc_primary_text_material_light = global::TEditorExemplo.Droid.Resource.Color.abc_primary_text_material_light;
+			global::TEditor.Resource.Color.abc_search_url_text = global::TEditorExemplo.Droid.Resource.Color.abc_search_url_text;
+			global::TEditor.Resource.Color.abc_search_url_text_normal = global::TEditorExemplo.Droid.Resource.Color.abc_search_url_text_normal;
+			global::TEditor.Resource.Color.abc_search_url_text_pressed = global::TEditorExemplo.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::TEditor.Resource.Color.abc_search_url_text_selected = global::TEditorExemplo.Droid.Resource.Color.abc_search_url_text_selected;
+			global::TEditor.Resource.Color.abc_secondary_text_material_dark = global::TEditorExemplo.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::TEditor.Resource.Color.abc_secondary_text_material_light = global::TEditorExemplo.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::TEditor.Resource.Color.accent_material_dark = global::TEditorExemplo.Droid.Resource.Color.accent_material_dark;
+			global::TEditor.Resource.Color.accent_material_light = global::TEditorExemplo.Droid.Resource.Color.accent_material_light;
+			global::TEditor.Resource.Color.background_floating_material_dark = global::TEditorExemplo.Droid.Resource.Color.background_floating_material_dark;
+			global::TEditor.Resource.Color.background_floating_material_light = global::TEditorExemplo.Droid.Resource.Color.background_floating_material_light;
+			global::TEditor.Resource.Color.background_material_dark = global::TEditorExemplo.Droid.Resource.Color.background_material_dark;
+			global::TEditor.Resource.Color.background_material_light = global::TEditorExemplo.Droid.Resource.Color.background_material_light;
+			global::TEditor.Resource.Color.bright_foreground_disabled_material_dark = global::TEditorExemplo.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::TEditor.Resource.Color.bright_foreground_disabled_material_light = global::TEditorExemplo.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::TEditor.Resource.Color.bright_foreground_inverse_material_dark = global::TEditorExemplo.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::TEditor.Resource.Color.bright_foreground_inverse_material_light = global::TEditorExemplo.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::TEditor.Resource.Color.bright_foreground_material_dark = global::TEditorExemplo.Droid.Resource.Color.bright_foreground_material_dark;
+			global::TEditor.Resource.Color.bright_foreground_material_light = global::TEditorExemplo.Droid.Resource.Color.bright_foreground_material_light;
+			global::TEditor.Resource.Color.button_material_dark = global::TEditorExemplo.Droid.Resource.Color.button_material_dark;
+			global::TEditor.Resource.Color.button_material_light = global::TEditorExemplo.Droid.Resource.Color.button_material_light;
+			global::TEditor.Resource.Color.dim_foreground_disabled_material_dark = global::TEditorExemplo.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::TEditor.Resource.Color.dim_foreground_disabled_material_light = global::TEditorExemplo.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::TEditor.Resource.Color.dim_foreground_material_dark = global::TEditorExemplo.Droid.Resource.Color.dim_foreground_material_dark;
+			global::TEditor.Resource.Color.dim_foreground_material_light = global::TEditorExemplo.Droid.Resource.Color.dim_foreground_material_light;
+			global::TEditor.Resource.Color.foreground_material_dark = global::TEditorExemplo.Droid.Resource.Color.foreground_material_dark;
+			global::TEditor.Resource.Color.foreground_material_light = global::TEditorExemplo.Droid.Resource.Color.foreground_material_light;
+			global::TEditor.Resource.Color.highlighted_text_material_dark = global::TEditorExemplo.Droid.Resource.Color.highlighted_text_material_dark;
+			global::TEditor.Resource.Color.highlighted_text_material_light = global::TEditorExemplo.Droid.Resource.Color.highlighted_text_material_light;
+			global::TEditor.Resource.Color.material_blue_grey_800 = global::TEditorExemplo.Droid.Resource.Color.material_blue_grey_800;
+			global::TEditor.Resource.Color.material_blue_grey_900 = global::TEditorExemplo.Droid.Resource.Color.material_blue_grey_900;
+			global::TEditor.Resource.Color.material_blue_grey_950 = global::TEditorExemplo.Droid.Resource.Color.material_blue_grey_950;
+			global::TEditor.Resource.Color.material_deep_teal_200 = global::TEditorExemplo.Droid.Resource.Color.material_deep_teal_200;
+			global::TEditor.Resource.Color.material_deep_teal_500 = global::TEditorExemplo.Droid.Resource.Color.material_deep_teal_500;
+			global::TEditor.Resource.Color.material_grey_100 = global::TEditorExemplo.Droid.Resource.Color.material_grey_100;
+			global::TEditor.Resource.Color.material_grey_300 = global::TEditorExemplo.Droid.Resource.Color.material_grey_300;
+			global::TEditor.Resource.Color.material_grey_50 = global::TEditorExemplo.Droid.Resource.Color.material_grey_50;
+			global::TEditor.Resource.Color.material_grey_600 = global::TEditorExemplo.Droid.Resource.Color.material_grey_600;
+			global::TEditor.Resource.Color.material_grey_800 = global::TEditorExemplo.Droid.Resource.Color.material_grey_800;
+			global::TEditor.Resource.Color.material_grey_850 = global::TEditorExemplo.Droid.Resource.Color.material_grey_850;
+			global::TEditor.Resource.Color.material_grey_900 = global::TEditorExemplo.Droid.Resource.Color.material_grey_900;
+			global::TEditor.Resource.Color.primary_dark_material_dark = global::TEditorExemplo.Droid.Resource.Color.primary_dark_material_dark;
+			global::TEditor.Resource.Color.primary_dark_material_light = global::TEditorExemplo.Droid.Resource.Color.primary_dark_material_light;
+			global::TEditor.Resource.Color.primary_material_dark = global::TEditorExemplo.Droid.Resource.Color.primary_material_dark;
+			global::TEditor.Resource.Color.primary_material_light = global::TEditorExemplo.Droid.Resource.Color.primary_material_light;
+			global::TEditor.Resource.Color.primary_text_default_material_dark = global::TEditorExemplo.Droid.Resource.Color.primary_text_default_material_dark;
+			global::TEditor.Resource.Color.primary_text_default_material_light = global::TEditorExemplo.Droid.Resource.Color.primary_text_default_material_light;
+			global::TEditor.Resource.Color.primary_text_disabled_material_dark = global::TEditorExemplo.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::TEditor.Resource.Color.primary_text_disabled_material_light = global::TEditorExemplo.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::TEditor.Resource.Color.ripple_material_dark = global::TEditorExemplo.Droid.Resource.Color.ripple_material_dark;
+			global::TEditor.Resource.Color.ripple_material_light = global::TEditorExemplo.Droid.Resource.Color.ripple_material_light;
+			global::TEditor.Resource.Color.secondary_text_default_material_dark = global::TEditorExemplo.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::TEditor.Resource.Color.secondary_text_default_material_light = global::TEditorExemplo.Droid.Resource.Color.secondary_text_default_material_light;
+			global::TEditor.Resource.Color.secondary_text_disabled_material_dark = global::TEditorExemplo.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::TEditor.Resource.Color.secondary_text_disabled_material_light = global::TEditorExemplo.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::TEditor.Resource.Color.switch_thumb_disabled_material_dark = global::TEditorExemplo.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::TEditor.Resource.Color.switch_thumb_disabled_material_light = global::TEditorExemplo.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::TEditor.Resource.Color.switch_thumb_material_dark = global::TEditorExemplo.Droid.Resource.Color.switch_thumb_material_dark;
+			global::TEditor.Resource.Color.switch_thumb_material_light = global::TEditorExemplo.Droid.Resource.Color.switch_thumb_material_light;
+			global::TEditor.Resource.Color.switch_thumb_normal_material_dark = global::TEditorExemplo.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::TEditor.Resource.Color.switch_thumb_normal_material_light = global::TEditorExemplo.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::TEditor.Resource.Dimension.abc_action_bar_content_inset_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::TEditor.Resource.Dimension.abc_action_bar_default_height_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::TEditor.Resource.Dimension.abc_action_bar_default_padding_end_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::TEditor.Resource.Dimension.abc_action_bar_default_padding_start_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::TEditor.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::TEditor.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::TEditor.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::TEditor.Resource.Dimension.abc_action_bar_progress_bar_size = global::TEditorExemplo.Droid.Resource.Dimension.abc_action_bar_progress_bar_size;
+			global::TEditor.Resource.Dimension.abc_action_bar_stacked_max_height = global::TEditorExemplo.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::TEditor.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::TEditorExemplo.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::TEditor.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::TEditor.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::TEditor.Resource.Dimension.abc_action_button_min_height_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::TEditor.Resource.Dimension.abc_action_button_min_width_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::TEditor.Resource.Dimension.abc_action_button_min_width_overflow_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::TEditor.Resource.Dimension.abc_alert_dialog_button_bar_height = global::TEditorExemplo.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::TEditor.Resource.Dimension.abc_button_inset_horizontal_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::TEditor.Resource.Dimension.abc_button_inset_vertical_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::TEditor.Resource.Dimension.abc_button_padding_horizontal_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::TEditor.Resource.Dimension.abc_button_padding_vertical_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::TEditor.Resource.Dimension.abc_config_prefDialogWidth = global::TEditorExemplo.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::TEditor.Resource.Dimension.abc_control_corner_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_control_corner_material;
+			global::TEditor.Resource.Dimension.abc_control_inset_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_control_inset_material;
+			global::TEditor.Resource.Dimension.abc_control_padding_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_control_padding_material;
+			global::TEditor.Resource.Dimension.abc_dialog_fixed_height_major = global::TEditorExemplo.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::TEditor.Resource.Dimension.abc_dialog_fixed_height_minor = global::TEditorExemplo.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::TEditor.Resource.Dimension.abc_dialog_fixed_width_major = global::TEditorExemplo.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::TEditor.Resource.Dimension.abc_dialog_fixed_width_minor = global::TEditorExemplo.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::TEditor.Resource.Dimension.abc_dialog_min_width_major = global::TEditorExemplo.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::TEditor.Resource.Dimension.abc_dialog_min_width_minor = global::TEditorExemplo.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::TEditor.Resource.Dimension.abc_dialog_padding_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::TEditor.Resource.Dimension.abc_dialog_padding_top_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::TEditor.Resource.Dimension.abc_disabled_alpha_material_dark = global::TEditorExemplo.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::TEditor.Resource.Dimension.abc_disabled_alpha_material_light = global::TEditorExemplo.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::TEditor.Resource.Dimension.abc_dropdownitem_icon_width = global::TEditorExemplo.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::TEditor.Resource.Dimension.abc_dropdownitem_text_padding_left = global::TEditorExemplo.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::TEditor.Resource.Dimension.abc_dropdownitem_text_padding_right = global::TEditorExemplo.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::TEditor.Resource.Dimension.abc_edit_text_inset_bottom_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::TEditor.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::TEditor.Resource.Dimension.abc_edit_text_inset_top_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::TEditor.Resource.Dimension.abc_floating_window_z = global::TEditorExemplo.Droid.Resource.Dimension.abc_floating_window_z;
+			global::TEditor.Resource.Dimension.abc_list_item_padding_horizontal_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::TEditor.Resource.Dimension.abc_panel_menu_list_width = global::TEditorExemplo.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::TEditor.Resource.Dimension.abc_search_view_preferred_width = global::TEditorExemplo.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::TEditor.Resource.Dimension.abc_seekbar_track_background_height_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::TEditor.Resource.Dimension.abc_seekbar_track_progress_height_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::TEditor.Resource.Dimension.abc_select_dialog_padding_start_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::TEditor.Resource.Dimension.abc_switch_padding = global::TEditorExemplo.Droid.Resource.Dimension.abc_switch_padding;
+			global::TEditor.Resource.Dimension.abc_text_size_body_1_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::TEditor.Resource.Dimension.abc_text_size_body_2_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::TEditor.Resource.Dimension.abc_text_size_button_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::TEditor.Resource.Dimension.abc_text_size_caption_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::TEditor.Resource.Dimension.abc_text_size_display_1_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::TEditor.Resource.Dimension.abc_text_size_display_2_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::TEditor.Resource.Dimension.abc_text_size_display_3_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::TEditor.Resource.Dimension.abc_text_size_display_4_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::TEditor.Resource.Dimension.abc_text_size_headline_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::TEditor.Resource.Dimension.abc_text_size_large_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::TEditor.Resource.Dimension.abc_text_size_medium_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::TEditor.Resource.Dimension.abc_text_size_menu_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::TEditor.Resource.Dimension.abc_text_size_small_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::TEditor.Resource.Dimension.abc_text_size_subhead_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::TEditor.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::TEditorExemplo.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::TEditor.Resource.Dimension.abc_text_size_title_material = global::TEditorExemplo.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::TEditor.Resource.Dimension.abc_text_size_title_material_toolbar = global::TEditorExemplo.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::TEditor.Resource.Dimension.disabled_alpha_material_dark = global::TEditorExemplo.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::TEditor.Resource.Dimension.disabled_alpha_material_light = global::TEditorExemplo.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::TEditor.Resource.Dimension.highlight_alpha_material_colored = global::TEditorExemplo.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::TEditor.Resource.Dimension.highlight_alpha_material_dark = global::TEditorExemplo.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::TEditor.Resource.Dimension.highlight_alpha_material_light = global::TEditorExemplo.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::TEditor.Resource.Dimension.notification_large_icon_height = global::TEditorExemplo.Droid.Resource.Dimension.notification_large_icon_height;
+			global::TEditor.Resource.Dimension.notification_large_icon_width = global::TEditorExemplo.Droid.Resource.Dimension.notification_large_icon_width;
+			global::TEditor.Resource.Dimension.notification_subtext_size = global::TEditorExemplo.Droid.Resource.Dimension.notification_subtext_size;
+			global::TEditor.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::TEditorExemplo.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::TEditor.Resource.Drawable.abc_action_bar_item_background_material = global::TEditorExemplo.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::TEditor.Resource.Drawable.abc_btn_borderless_material = global::TEditorExemplo.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::TEditor.Resource.Drawable.abc_btn_check_material = global::TEditorExemplo.Droid.Resource.Drawable.abc_btn_check_material;
+			global::TEditor.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::TEditorExemplo.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::TEditor.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::TEditorExemplo.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::TEditor.Resource.Drawable.abc_btn_colored_material = global::TEditorExemplo.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::TEditor.Resource.Drawable.abc_btn_default_mtrl_shape = global::TEditorExemplo.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::TEditor.Resource.Drawable.abc_btn_radio_material = global::TEditorExemplo.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::TEditor.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::TEditorExemplo.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::TEditor.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::TEditorExemplo.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::TEditor.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::TEditorExemplo.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::TEditor.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::TEditorExemplo.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::TEditor.Resource.Drawable.abc_cab_background_internal_bg = global::TEditorExemplo.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::TEditor.Resource.Drawable.abc_cab_background_top_material = global::TEditorExemplo.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::TEditor.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::TEditorExemplo.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::TEditor.Resource.Drawable.abc_control_background_material = global::TEditorExemplo.Droid.Resource.Drawable.abc_control_background_material;
+			global::TEditor.Resource.Drawable.abc_edit_text_material = global::TEditorExemplo.Droid.Resource.Drawable.abc_edit_text_material;
+			global::TEditor.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::TEditorExemplo.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::TEditor.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::TEditorExemplo.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::TEditor.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::TEditorExemplo.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::TEditor.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::TEditorExemplo.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::TEditor.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::TEditorExemplo.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::TEditor.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::TEditorExemplo.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::TEditor.Resource.Drawable.abc_ic_star_black_16dp = global::TEditorExemplo.Droid.Resource.Drawable.abc_ic_star_black_16dp;
+			global::TEditor.Resource.Drawable.abc_ic_star_black_36dp = global::TEditorExemplo.Droid.Resource.Drawable.abc_ic_star_black_36dp;
+			global::TEditor.Resource.Drawable.abc_ic_star_half_black_16dp = global::TEditorExemplo.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::TEditor.Resource.Drawable.abc_ic_star_half_black_36dp = global::TEditorExemplo.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::TEditor.Resource.Drawable.abc_item_background_holo_dark = global::TEditorExemplo.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::TEditor.Resource.Drawable.abc_item_background_holo_light = global::TEditorExemplo.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::TEditor.Resource.Drawable.abc_list_divider_mtrl_alpha = global::TEditorExemplo.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::TEditor.Resource.Drawable.abc_list_focused_holo = global::TEditorExemplo.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::TEditor.Resource.Drawable.abc_list_longpressed_holo = global::TEditorExemplo.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::TEditor.Resource.Drawable.abc_list_pressed_holo_dark = global::TEditorExemplo.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::TEditor.Resource.Drawable.abc_list_pressed_holo_light = global::TEditorExemplo.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::TEditor.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::TEditorExemplo.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::TEditor.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::TEditorExemplo.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::TEditor.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::TEditorExemplo.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::TEditor.Resource.Drawable.abc_list_selector_disabled_holo_light = global::TEditorExemplo.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::TEditor.Resource.Drawable.abc_list_selector_holo_dark = global::TEditorExemplo.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::TEditor.Resource.Drawable.abc_list_selector_holo_light = global::TEditorExemplo.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::TEditor.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::TEditorExemplo.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::TEditor.Resource.Drawable.abc_popup_background_mtrl_mult = global::TEditorExemplo.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::TEditor.Resource.Drawable.abc_ratingbar_indicator_material = global::TEditorExemplo.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::TEditor.Resource.Drawable.abc_ratingbar_small_material = global::TEditorExemplo.Droid.Resource.Drawable.abc_ratingbar_small_material;
+			global::TEditor.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::TEditorExemplo.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::TEditor.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::TEditorExemplo.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::TEditor.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::TEditorExemplo.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::TEditor.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::TEditorExemplo.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::TEditor.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::TEditorExemplo.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::TEditor.Resource.Drawable.abc_seekbar_thumb_material = global::TEditorExemplo.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::TEditor.Resource.Drawable.abc_seekbar_track_material = global::TEditorExemplo.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::TEditor.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::TEditorExemplo.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::TEditor.Resource.Drawable.abc_spinner_textfield_background_material = global::TEditorExemplo.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::TEditor.Resource.Drawable.abc_switch_thumb_material = global::TEditorExemplo.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::TEditor.Resource.Drawable.abc_switch_track_mtrl_alpha = global::TEditorExemplo.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::TEditor.Resource.Drawable.abc_tab_indicator_material = global::TEditorExemplo.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::TEditor.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::TEditorExemplo.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::TEditor.Resource.Drawable.abc_text_cursor_material = global::TEditorExemplo.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::TEditor.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::TEditorExemplo.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::TEditor.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::TEditorExemplo.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::TEditor.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::TEditorExemplo.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::TEditor.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::TEditorExemplo.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::TEditor.Resource.Drawable.abc_textfield_search_material = global::TEditorExemplo.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::TEditor.Resource.Drawable.MenuDiscard = global::TEditorExemplo.Droid.Resource.Drawable.MenuDiscard;
+			global::TEditor.Resource.Drawable.MenuSave = global::TEditorExemplo.Droid.Resource.Drawable.MenuSave;
+			global::TEditor.Resource.Drawable.notification_template_icon_bg = global::TEditorExemplo.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::TEditor.Resource.Drawable.ZSSbgcolor = global::TEditorExemplo.Droid.Resource.Drawable.ZSSbgcolor;
+			global::TEditor.Resource.Drawable.ZSSbold = global::TEditorExemplo.Droid.Resource.Drawable.ZSSbold;
+			global::TEditor.Resource.Drawable.ZSScenterjustify = global::TEditorExemplo.Droid.Resource.Drawable.ZSScenterjustify;
+			global::TEditor.Resource.Drawable.ZSSclearstyle = global::TEditorExemplo.Droid.Resource.Drawable.ZSSclearstyle;
+			global::TEditor.Resource.Drawable.ZSSforcejustify = global::TEditorExemplo.Droid.Resource.Drawable.ZSSforcejustify;
+			global::TEditor.Resource.Drawable.ZSSh1 = global::TEditorExemplo.Droid.Resource.Drawable.ZSSh1;
+			global::TEditor.Resource.Drawable.ZSSh2 = global::TEditorExemplo.Droid.Resource.Drawable.ZSSh2;
+			global::TEditor.Resource.Drawable.ZSSh3 = global::TEditorExemplo.Droid.Resource.Drawable.ZSSh3;
+			global::TEditor.Resource.Drawable.ZSSh4 = global::TEditorExemplo.Droid.Resource.Drawable.ZSSh4;
+			global::TEditor.Resource.Drawable.ZSSh5 = global::TEditorExemplo.Droid.Resource.Drawable.ZSSh5;
+			global::TEditor.Resource.Drawable.ZSSh6 = global::TEditorExemplo.Droid.Resource.Drawable.ZSSh6;
+			global::TEditor.Resource.Drawable.ZSShorizontalrule = global::TEditorExemplo.Droid.Resource.Drawable.ZSShorizontalrule;
+			global::TEditor.Resource.Drawable.ZSSimage = global::TEditorExemplo.Droid.Resource.Drawable.ZSSimage;
+			global::TEditor.Resource.Drawable.ZSSindent = global::TEditorExemplo.Droid.Resource.Drawable.ZSSindent;
+			global::TEditor.Resource.Drawable.ZSSinsertkeyword = global::TEditorExemplo.Droid.Resource.Drawable.ZSSinsertkeyword;
+			global::TEditor.Resource.Drawable.ZSSitalic = global::TEditorExemplo.Droid.Resource.Drawable.ZSSitalic;
+			global::TEditor.Resource.Drawable.ZSSkeyboard = global::TEditorExemplo.Droid.Resource.Drawable.ZSSkeyboard;
+			global::TEditor.Resource.Drawable.ZSSleftjustify = global::TEditorExemplo.Droid.Resource.Drawable.ZSSleftjustify;
+			global::TEditor.Resource.Drawable.ZSSlink = global::TEditorExemplo.Droid.Resource.Drawable.ZSSlink;
+			global::TEditor.Resource.Drawable.ZSSorderedlist = global::TEditorExemplo.Droid.Resource.Drawable.ZSSorderedlist;
+			global::TEditor.Resource.Drawable.ZSSoutdent = global::TEditorExemplo.Droid.Resource.Drawable.ZSSoutdent;
+			global::TEditor.Resource.Drawable.ZSSparagraph = global::TEditorExemplo.Droid.Resource.Drawable.ZSSparagraph;
+			global::TEditor.Resource.Drawable.ZSSpicker = global::TEditorExemplo.Droid.Resource.Drawable.ZSSpicker;
+			global::TEditor.Resource.Drawable.ZSSquicklink = global::TEditorExemplo.Droid.Resource.Drawable.ZSSquicklink;
+			global::TEditor.Resource.Drawable.ZSSredo = global::TEditorExemplo.Droid.Resource.Drawable.ZSSredo;
+			global::TEditor.Resource.Drawable.ZSSrightjustify = global::TEditorExemplo.Droid.Resource.Drawable.ZSSrightjustify;
+			global::TEditor.Resource.Drawable.ZSSstrikethrough = global::TEditorExemplo.Droid.Resource.Drawable.ZSSstrikethrough;
+			global::TEditor.Resource.Drawable.ZSSsubscript = global::TEditorExemplo.Droid.Resource.Drawable.ZSSsubscript;
+			global::TEditor.Resource.Drawable.ZSSsuperscript = global::TEditorExemplo.Droid.Resource.Drawable.ZSSsuperscript;
+			global::TEditor.Resource.Drawable.ZSStable = global::TEditorExemplo.Droid.Resource.Drawable.ZSStable;
+			global::TEditor.Resource.Drawable.ZSStextcolor = global::TEditorExemplo.Droid.Resource.Drawable.ZSStextcolor;
+			global::TEditor.Resource.Drawable.ZSSunderline = global::TEditorExemplo.Droid.Resource.Drawable.ZSSunderline;
+			global::TEditor.Resource.Drawable.ZSSundo = global::TEditorExemplo.Droid.Resource.Drawable.ZSSundo;
+			global::TEditor.Resource.Drawable.ZSSunlink = global::TEditorExemplo.Droid.Resource.Drawable.ZSSunlink;
+			global::TEditor.Resource.Drawable.ZSSunorderedlist = global::TEditorExemplo.Droid.Resource.Drawable.ZSSunorderedlist;
+			global::TEditor.Resource.Drawable.ZSSviewsource = global::TEditorExemplo.Droid.Resource.Drawable.ZSSviewsource;
+			global::TEditor.Resource.Id.EditorWebView = global::TEditorExemplo.Droid.Resource.Id.EditorWebView;
+			global::TEditor.Resource.Id.RootRelativeLayout = global::TEditorExemplo.Droid.Resource.Id.RootRelativeLayout;
+			global::TEditor.Resource.Id.ToolbarItemsLayout = global::TEditorExemplo.Droid.Resource.Id.ToolbarItemsLayout;
+			global::TEditor.Resource.Id.ToolbarLayout = global::TEditorExemplo.Droid.Resource.Id.ToolbarLayout;
+			global::TEditor.Resource.Id.TopToolbar = global::TEditorExemplo.Droid.Resource.Id.TopToolbar;
+			global::TEditor.Resource.Id.action0 = global::TEditorExemplo.Droid.Resource.Id.action0;
+			global::TEditor.Resource.Id.action_bar = global::TEditorExemplo.Droid.Resource.Id.action_bar;
+			global::TEditor.Resource.Id.action_bar_activity_content = global::TEditorExemplo.Droid.Resource.Id.action_bar_activity_content;
+			global::TEditor.Resource.Id.action_bar_container = global::TEditorExemplo.Droid.Resource.Id.action_bar_container;
+			global::TEditor.Resource.Id.action_bar_root = global::TEditorExemplo.Droid.Resource.Id.action_bar_root;
+			global::TEditor.Resource.Id.action_bar_spinner = global::TEditorExemplo.Droid.Resource.Id.action_bar_spinner;
+			global::TEditor.Resource.Id.action_bar_subtitle = global::TEditorExemplo.Droid.Resource.Id.action_bar_subtitle;
+			global::TEditor.Resource.Id.action_bar_title = global::TEditorExemplo.Droid.Resource.Id.action_bar_title;
+			global::TEditor.Resource.Id.action_context_bar = global::TEditorExemplo.Droid.Resource.Id.action_context_bar;
+			global::TEditor.Resource.Id.action_divider = global::TEditorExemplo.Droid.Resource.Id.action_divider;
+			global::TEditor.Resource.Id.action_menu_divider = global::TEditorExemplo.Droid.Resource.Id.action_menu_divider;
+			global::TEditor.Resource.Id.action_menu_presenter = global::TEditorExemplo.Droid.Resource.Id.action_menu_presenter;
+			global::TEditor.Resource.Id.action_mode_bar = global::TEditorExemplo.Droid.Resource.Id.action_mode_bar;
+			global::TEditor.Resource.Id.action_mode_bar_stub = global::TEditorExemplo.Droid.Resource.Id.action_mode_bar_stub;
+			global::TEditor.Resource.Id.action_mode_close_button = global::TEditorExemplo.Droid.Resource.Id.action_mode_close_button;
+			global::TEditor.Resource.Id.activity_chooser_view_content = global::TEditorExemplo.Droid.Resource.Id.activity_chooser_view_content;
+			global::TEditor.Resource.Id.alertTitle = global::TEditorExemplo.Droid.Resource.Id.alertTitle;
+			global::TEditor.Resource.Id.always = global::TEditorExemplo.Droid.Resource.Id.always;
+			global::TEditor.Resource.Id.beginning = global::TEditorExemplo.Droid.Resource.Id.beginning;
+			global::TEditor.Resource.Id.buttonPanel = global::TEditorExemplo.Droid.Resource.Id.buttonPanel;
+			global::TEditor.Resource.Id.cancel_action = global::TEditorExemplo.Droid.Resource.Id.cancel_action;
+			global::TEditor.Resource.Id.checkbox = global::TEditorExemplo.Droid.Resource.Id.checkbox;
+			global::TEditor.Resource.Id.chronometer = global::TEditorExemplo.Droid.Resource.Id.chronometer;
+			global::TEditor.Resource.Id.collapseActionView = global::TEditorExemplo.Droid.Resource.Id.collapseActionView;
+			global::TEditor.Resource.Id.color_picker_view = global::TEditorExemplo.Droid.Resource.Id.color_picker_view;
+			global::TEditor.Resource.Id.contentPanel = global::TEditorExemplo.Droid.Resource.Id.contentPanel;
+			global::TEditor.Resource.Id.custom = global::TEditorExemplo.Droid.Resource.Id.custom;
+			global::TEditor.Resource.Id.customPanel = global::TEditorExemplo.Droid.Resource.Id.customPanel;
+			global::TEditor.Resource.Id.decor_content_parent = global::TEditorExemplo.Droid.Resource.Id.decor_content_parent;
+			global::TEditor.Resource.Id.default_activity_button = global::TEditorExemplo.Droid.Resource.Id.default_activity_button;
+			global::TEditor.Resource.Id.disableHome = global::TEditorExemplo.Droid.Resource.Id.disableHome;
+			global::TEditor.Resource.Id.edit_query = global::TEditorExemplo.Droid.Resource.Id.edit_query;
+			global::TEditor.Resource.Id.end = global::TEditorExemplo.Droid.Resource.Id.end;
+			global::TEditor.Resource.Id.end_padder = global::TEditorExemplo.Droid.Resource.Id.end_padder;
+			global::TEditor.Resource.Id.expand_activities_button = global::TEditorExemplo.Droid.Resource.Id.expand_activities_button;
+			global::TEditor.Resource.Id.expanded_menu = global::TEditorExemplo.Droid.Resource.Id.expanded_menu;
+			global::TEditor.Resource.Id.home = global::TEditorExemplo.Droid.Resource.Id.home;
+			global::TEditor.Resource.Id.homeAsUp = global::TEditorExemplo.Droid.Resource.Id.homeAsUp;
+			global::TEditor.Resource.Id.icon = global::TEditorExemplo.Droid.Resource.Id.icon;
+			global::TEditor.Resource.Id.ifRoom = global::TEditorExemplo.Droid.Resource.Id.ifRoom;
+			global::TEditor.Resource.Id.image = global::TEditorExemplo.Droid.Resource.Id.image;
+			global::TEditor.Resource.Id.info = global::TEditorExemplo.Droid.Resource.Id.info;
+			global::TEditor.Resource.Id.line1 = global::TEditorExemplo.Droid.Resource.Id.line1;
+			global::TEditor.Resource.Id.line3 = global::TEditorExemplo.Droid.Resource.Id.line3;
+			global::TEditor.Resource.Id.listMode = global::TEditorExemplo.Droid.Resource.Id.listMode;
+			global::TEditor.Resource.Id.list_item = global::TEditorExemplo.Droid.Resource.Id.list_item;
+			global::TEditor.Resource.Id.media_actions = global::TEditorExemplo.Droid.Resource.Id.media_actions;
+			global::TEditor.Resource.Id.menu_cancel = global::TEditorExemplo.Droid.Resource.Id.menu_cancel;
+			global::TEditor.Resource.Id.menu_done = global::TEditorExemplo.Droid.Resource.Id.menu_done;
+			global::TEditor.Resource.Id.middle = global::TEditorExemplo.Droid.Resource.Id.middle;
+			global::TEditor.Resource.Id.multiply = global::TEditorExemplo.Droid.Resource.Id.multiply;
+			global::TEditor.Resource.Id.never = global::TEditorExemplo.Droid.Resource.Id.never;
+			global::TEditor.Resource.Id.new_color_panel = global::TEditorExemplo.Droid.Resource.Id.new_color_panel;
+			global::TEditor.Resource.Id.none = global::TEditorExemplo.Droid.Resource.Id.none;
+			global::TEditor.Resource.Id.normal = global::TEditorExemplo.Droid.Resource.Id.normal;
+			global::TEditor.Resource.Id.old_color_panel = global::TEditorExemplo.Droid.Resource.Id.old_color_panel;
+			global::TEditor.Resource.Id.parentPanel = global::TEditorExemplo.Droid.Resource.Id.parentPanel;
+			global::TEditor.Resource.Id.progress_circular = global::TEditorExemplo.Droid.Resource.Id.progress_circular;
+			global::TEditor.Resource.Id.progress_horizontal = global::TEditorExemplo.Droid.Resource.Id.progress_horizontal;
+			global::TEditor.Resource.Id.radio = global::TEditorExemplo.Droid.Resource.Id.radio;
+			global::TEditor.Resource.Id.screen = global::TEditorExemplo.Droid.Resource.Id.screen;
+			global::TEditor.Resource.Id.scrollIndicatorDown = global::TEditorExemplo.Droid.Resource.Id.scrollIndicatorDown;
+			global::TEditor.Resource.Id.scrollIndicatorUp = global::TEditorExemplo.Droid.Resource.Id.scrollIndicatorUp;
+			global::TEditor.Resource.Id.scrollView = global::TEditorExemplo.Droid.Resource.Id.scrollView;
+			global::TEditor.Resource.Id.search_badge = global::TEditorExemplo.Droid.Resource.Id.search_badge;
+			global::TEditor.Resource.Id.search_bar = global::TEditorExemplo.Droid.Resource.Id.search_bar;
+			global::TEditor.Resource.Id.search_button = global::TEditorExemplo.Droid.Resource.Id.search_button;
+			global::TEditor.Resource.Id.search_close_btn = global::TEditorExemplo.Droid.Resource.Id.search_close_btn;
+			global::TEditor.Resource.Id.search_edit_frame = global::TEditorExemplo.Droid.Resource.Id.search_edit_frame;
+			global::TEditor.Resource.Id.search_go_btn = global::TEditorExemplo.Droid.Resource.Id.search_go_btn;
+			global::TEditor.Resource.Id.search_mag_icon = global::TEditorExemplo.Droid.Resource.Id.search_mag_icon;
+			global::TEditor.Resource.Id.search_plate = global::TEditorExemplo.Droid.Resource.Id.search_plate;
+			global::TEditor.Resource.Id.search_src_text = global::TEditorExemplo.Droid.Resource.Id.search_src_text;
+			global::TEditor.Resource.Id.search_voice_btn = global::TEditorExemplo.Droid.Resource.Id.search_voice_btn;
+			global::TEditor.Resource.Id.select_dialog_listview = global::TEditorExemplo.Droid.Resource.Id.select_dialog_listview;
+			global::TEditor.Resource.Id.shortcut = global::TEditorExemplo.Droid.Resource.Id.shortcut;
+			global::TEditor.Resource.Id.showCustom = global::TEditorExemplo.Droid.Resource.Id.showCustom;
+			global::TEditor.Resource.Id.showHome = global::TEditorExemplo.Droid.Resource.Id.showHome;
+			global::TEditor.Resource.Id.showTitle = global::TEditorExemplo.Droid.Resource.Id.showTitle;
+			global::TEditor.Resource.Id.spacer = global::TEditorExemplo.Droid.Resource.Id.spacer;
+			global::TEditor.Resource.Id.split_action_bar = global::TEditorExemplo.Droid.Resource.Id.split_action_bar;
+			global::TEditor.Resource.Id.src_atop = global::TEditorExemplo.Droid.Resource.Id.src_atop;
+			global::TEditor.Resource.Id.src_in = global::TEditorExemplo.Droid.Resource.Id.src_in;
+			global::TEditor.Resource.Id.src_over = global::TEditorExemplo.Droid.Resource.Id.src_over;
+			global::TEditor.Resource.Id.status_bar_latest_event_content = global::TEditorExemplo.Droid.Resource.Id.status_bar_latest_event_content;
+			global::TEditor.Resource.Id.submit_area = global::TEditorExemplo.Droid.Resource.Id.submit_area;
+			global::TEditor.Resource.Id.tabMode = global::TEditorExemplo.Droid.Resource.Id.tabMode;
+			global::TEditor.Resource.Id.text = global::TEditorExemplo.Droid.Resource.Id.text;
+			global::TEditor.Resource.Id.text2 = global::TEditorExemplo.Droid.Resource.Id.text2;
+			global::TEditor.Resource.Id.textSpacerNoButtons = global::TEditorExemplo.Droid.Resource.Id.textSpacerNoButtons;
+			global::TEditor.Resource.Id.time = global::TEditorExemplo.Droid.Resource.Id.time;
+			global::TEditor.Resource.Id.title = global::TEditorExemplo.Droid.Resource.Id.title;
+			global::TEditor.Resource.Id.title_template = global::TEditorExemplo.Droid.Resource.Id.title_template;
+			global::TEditor.Resource.Id.topPanel = global::TEditorExemplo.Droid.Resource.Id.topPanel;
+			global::TEditor.Resource.Id.up = global::TEditorExemplo.Droid.Resource.Id.up;
+			global::TEditor.Resource.Id.useLogo = global::TEditorExemplo.Droid.Resource.Id.useLogo;
+			global::TEditor.Resource.Id.withText = global::TEditorExemplo.Droid.Resource.Id.withText;
+			global::TEditor.Resource.Id.wrap_content = global::TEditorExemplo.Droid.Resource.Id.wrap_content;
+			global::TEditor.Resource.Integer.abc_config_activityDefaultDur = global::TEditorExemplo.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::TEditor.Resource.Integer.abc_config_activityShortDur = global::TEditorExemplo.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::TEditor.Resource.Integer.cancel_button_image_alpha = global::TEditorExemplo.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::TEditor.Resource.Integer.status_bar_notification_info_maxnum = global::TEditorExemplo.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::TEditor.Resource.Layout.abc_action_bar_title_item = global::TEditorExemplo.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::TEditor.Resource.Layout.abc_action_bar_up_container = global::TEditorExemplo.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::TEditor.Resource.Layout.abc_action_bar_view_list_nav_layout = global::TEditorExemplo.Droid.Resource.Layout.abc_action_bar_view_list_nav_layout;
+			global::TEditor.Resource.Layout.abc_action_menu_item_layout = global::TEditorExemplo.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::TEditor.Resource.Layout.abc_action_menu_layout = global::TEditorExemplo.Droid.Resource.Layout.abc_action_menu_layout;
+			global::TEditor.Resource.Layout.abc_action_mode_bar = global::TEditorExemplo.Droid.Resource.Layout.abc_action_mode_bar;
+			global::TEditor.Resource.Layout.abc_action_mode_close_item_material = global::TEditorExemplo.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::TEditor.Resource.Layout.abc_activity_chooser_view = global::TEditorExemplo.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::TEditor.Resource.Layout.abc_activity_chooser_view_list_item = global::TEditorExemplo.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::TEditor.Resource.Layout.abc_alert_dialog_button_bar_material = global::TEditorExemplo.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::TEditor.Resource.Layout.abc_alert_dialog_material = global::TEditorExemplo.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::TEditor.Resource.Layout.abc_dialog_title_material = global::TEditorExemplo.Droid.Resource.Layout.abc_dialog_title_material;
+			global::TEditor.Resource.Layout.abc_expanded_menu_layout = global::TEditorExemplo.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::TEditor.Resource.Layout.abc_list_menu_item_checkbox = global::TEditorExemplo.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::TEditor.Resource.Layout.abc_list_menu_item_icon = global::TEditorExemplo.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::TEditor.Resource.Layout.abc_list_menu_item_layout = global::TEditorExemplo.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::TEditor.Resource.Layout.abc_list_menu_item_radio = global::TEditorExemplo.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::TEditor.Resource.Layout.abc_popup_menu_item_layout = global::TEditorExemplo.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::TEditor.Resource.Layout.abc_screen_content_include = global::TEditorExemplo.Droid.Resource.Layout.abc_screen_content_include;
+			global::TEditor.Resource.Layout.abc_screen_simple = global::TEditorExemplo.Droid.Resource.Layout.abc_screen_simple;
+			global::TEditor.Resource.Layout.abc_screen_simple_overlay_action_mode = global::TEditorExemplo.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::TEditor.Resource.Layout.abc_screen_toolbar = global::TEditorExemplo.Droid.Resource.Layout.abc_screen_toolbar;
+			global::TEditor.Resource.Layout.abc_search_dropdown_item_icons_2line = global::TEditorExemplo.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::TEditor.Resource.Layout.abc_search_view = global::TEditorExemplo.Droid.Resource.Layout.abc_search_view;
+			global::TEditor.Resource.Layout.abc_select_dialog_material = global::TEditorExemplo.Droid.Resource.Layout.abc_select_dialog_material;
+			global::TEditor.Resource.Layout.dialog_color_picker = global::TEditorExemplo.Droid.Resource.Layout.dialog_color_picker;
+			global::TEditor.Resource.Layout.notification_media_action = global::TEditorExemplo.Droid.Resource.Layout.notification_media_action;
+			global::TEditor.Resource.Layout.notification_media_cancel_action = global::TEditorExemplo.Droid.Resource.Layout.notification_media_cancel_action;
+			global::TEditor.Resource.Layout.notification_template_big_media = global::TEditorExemplo.Droid.Resource.Layout.notification_template_big_media;
+			global::TEditor.Resource.Layout.notification_template_big_media_narrow = global::TEditorExemplo.Droid.Resource.Layout.notification_template_big_media_narrow;
+			global::TEditor.Resource.Layout.notification_template_media = global::TEditorExemplo.Droid.Resource.Layout.notification_template_media;
+			global::TEditor.Resource.Layout.notification_template_part_chronometer = global::TEditorExemplo.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::TEditor.Resource.Layout.notification_template_part_time = global::TEditorExemplo.Droid.Resource.Layout.notification_template_part_time;
+			global::TEditor.Resource.Layout.select_dialog_item_material = global::TEditorExemplo.Droid.Resource.Layout.select_dialog_item_material;
+			global::TEditor.Resource.Layout.select_dialog_multichoice_material = global::TEditorExemplo.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::TEditor.Resource.Layout.select_dialog_singlechoice_material = global::TEditorExemplo.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::TEditor.Resource.Layout.support_simple_spinner_dropdown_item = global::TEditorExemplo.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::TEditor.Resource.Layout.TEditorActivity = global::TEditorExemplo.Droid.Resource.Layout.TEditorActivity;
+			global::TEditor.Resource.Menu.TopToolbarMenu = global::TEditorExemplo.Droid.Resource.Menu.TopToolbarMenu;
+			global::TEditor.Resource.String.abc_action_bar_home_description = global::TEditorExemplo.Droid.Resource.String.abc_action_bar_home_description;
+			global::TEditor.Resource.String.abc_action_bar_home_description_format = global::TEditorExemplo.Droid.Resource.String.abc_action_bar_home_description_format;
+			global::TEditor.Resource.String.abc_action_bar_home_subtitle_description_format = global::TEditorExemplo.Droid.Resource.String.abc_action_bar_home_subtitle_description_format;
+			global::TEditor.Resource.String.abc_action_bar_up_description = global::TEditorExemplo.Droid.Resource.String.abc_action_bar_up_description;
+			global::TEditor.Resource.String.abc_action_menu_overflow_description = global::TEditorExemplo.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::TEditor.Resource.String.abc_action_mode_done = global::TEditorExemplo.Droid.Resource.String.abc_action_mode_done;
+			global::TEditor.Resource.String.abc_activity_chooser_view_see_all = global::TEditorExemplo.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::TEditor.Resource.String.abc_activitychooserview_choose_application = global::TEditorExemplo.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::TEditor.Resource.String.abc_capital_off = global::TEditorExemplo.Droid.Resource.String.abc_capital_off;
+			global::TEditor.Resource.String.abc_capital_on = global::TEditorExemplo.Droid.Resource.String.abc_capital_on;
+			global::TEditor.Resource.String.abc_search_hint = global::TEditorExemplo.Droid.Resource.String.abc_search_hint;
+			global::TEditor.Resource.String.abc_searchview_description_clear = global::TEditorExemplo.Droid.Resource.String.abc_searchview_description_clear;
+			global::TEditor.Resource.String.abc_searchview_description_query = global::TEditorExemplo.Droid.Resource.String.abc_searchview_description_query;
+			global::TEditor.Resource.String.abc_searchview_description_search = global::TEditorExemplo.Droid.Resource.String.abc_searchview_description_search;
+			global::TEditor.Resource.String.abc_searchview_description_submit = global::TEditorExemplo.Droid.Resource.String.abc_searchview_description_submit;
+			global::TEditor.Resource.String.abc_searchview_description_voice = global::TEditorExemplo.Droid.Resource.String.abc_searchview_description_voice;
+			global::TEditor.Resource.String.abc_shareactionprovider_share_with = global::TEditorExemplo.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::TEditor.Resource.String.abc_shareactionprovider_share_with_application = global::TEditorExemplo.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::TEditor.Resource.String.abc_toolbar_collapse_description = global::TEditorExemplo.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::TEditor.Resource.String.app_name = global::TEditorExemplo.Droid.Resource.String.app_name;
+			global::TEditor.Resource.String.button_color_picker_alpha = global::TEditorExemplo.Droid.Resource.String.button_color_picker_alpha;
+			global::TEditor.Resource.String.button_color_picker_noalpha = global::TEditorExemplo.Droid.Resource.String.button_color_picker_noalpha;
+			global::TEditor.Resource.String.button_color_picker_round = global::TEditorExemplo.Droid.Resource.String.button_color_picker_round;
+			global::TEditor.Resource.String.dialog_color_picker = global::TEditorExemplo.Droid.Resource.String.dialog_color_picker;
+			global::TEditor.Resource.String.press_color_to_apply = global::TEditorExemplo.Droid.Resource.String.press_color_to_apply;
+			global::TEditor.Resource.String.status_bar_notification_info_overflow = global::TEditorExemplo.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::TEditor.Resource.Style.AlertDialog_AppCompat = global::TEditorExemplo.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::TEditor.Resource.Style.AlertDialog_AppCompat_Light = global::TEditorExemplo.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::TEditor.Resource.Style.Animation_AppCompat_Dialog = global::TEditorExemplo.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::TEditor.Resource.Style.Animation_AppCompat_DropDownUp = global::TEditorExemplo.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::TEditor.Resource.Style.Base_AlertDialog_AppCompat = global::TEditorExemplo.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::TEditor.Resource.Style.Base_AlertDialog_AppCompat_Light = global::TEditorExemplo.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::TEditor.Resource.Style.Base_Animation_AppCompat_Dialog = global::TEditorExemplo.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::TEditor.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::TEditorExemplo.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::TEditor.Resource.Style.Base_DialogWindowTitle_AppCompat = global::TEditorExemplo.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::TEditor.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::TEditorExemplo.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Button = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Large = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Small = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Title = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::TEditor.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::TEditor.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::TEditor.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::TEditor.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::TEditorExemplo.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::TEditor.Resource.Style.Base_Theme_AppCompat = global::TEditorExemplo.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::TEditor.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::TEditorExemplo.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::TEditor.Resource.Style.Base_Theme_AppCompat_Dialog = global::TEditorExemplo.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::TEditor.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::TEditorExemplo.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::TEditor.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::TEditorExemplo.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::TEditor.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::TEditorExemplo.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::TEditor.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::TEditorExemplo.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::TEditor.Resource.Style.Base_Theme_AppCompat_Light = global::TEditorExemplo.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::TEditor.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::TEditorExemplo.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::TEditor.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::TEditorExemplo.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::TEditor.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::TEditorExemplo.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::TEditor.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::TEditorExemplo.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::TEditor.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::TEditorExemplo.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::TEditor.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::TEditorExemplo.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::TEditor.Resource.Style.Base_ThemeOverlay_AppCompat = global::TEditorExemplo.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::TEditor.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::TEditorExemplo.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::TEditor.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::TEditorExemplo.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::TEditor.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::TEditorExemplo.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::TEditor.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::TEditorExemplo.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::TEditor.Resource.Style.Base_V11_Theme_AppCompat_Dialog = global::TEditorExemplo.Droid.Resource.Style.Base_V11_Theme_AppCompat_Dialog;
+			global::TEditor.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog = global::TEditorExemplo.Droid.Resource.Style.Base_V11_Theme_AppCompat_Light_Dialog;
+			global::TEditor.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView = global::TEditorExemplo.Droid.Resource.Style.Base_V12_Widget_AppCompat_AutoCompleteTextView;
+			global::TEditor.Resource.Style.Base_V12_Widget_AppCompat_EditText = global::TEditorExemplo.Droid.Resource.Style.Base_V12_Widget_AppCompat_EditText;
+			global::TEditor.Resource.Style.Base_V21_Theme_AppCompat = global::TEditorExemplo.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::TEditor.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::TEditorExemplo.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::TEditor.Resource.Style.Base_V21_Theme_AppCompat_Light = global::TEditorExemplo.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::TEditor.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::TEditorExemplo.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::TEditor.Resource.Style.Base_V22_Theme_AppCompat = global::TEditorExemplo.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::TEditor.Resource.Style.Base_V22_Theme_AppCompat_Light = global::TEditorExemplo.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::TEditor.Resource.Style.Base_V23_Theme_AppCompat = global::TEditorExemplo.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::TEditor.Resource.Style.Base_V23_Theme_AppCompat_Light = global::TEditorExemplo.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::TEditor.Resource.Style.Base_V7_Theme_AppCompat = global::TEditorExemplo.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::TEditor.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::TEditorExemplo.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::TEditor.Resource.Style.Base_V7_Theme_AppCompat_Light = global::TEditorExemplo.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::TEditor.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::TEditorExemplo.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::TEditor.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::TEditorExemplo.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::TEditor.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::TEditorExemplo.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_ActionBar = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_ActionButton = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_ActionMode = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_Button = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_Button_Small = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_EditText = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_ImageButton = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_ListView = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_RatingBar = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_SearchView = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_SeekBar = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_Spinner = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_Toolbar = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::TEditor.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::TEditorExemplo.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::TEditor.Resource.Style.Platform_AppCompat = global::TEditorExemplo.Droid.Resource.Style.Platform_AppCompat;
+			global::TEditor.Resource.Style.Platform_AppCompat_Light = global::TEditorExemplo.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::TEditor.Resource.Style.Platform_ThemeOverlay_AppCompat = global::TEditorExemplo.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::TEditor.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::TEditorExemplo.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::TEditor.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::TEditorExemplo.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::TEditor.Resource.Style.Platform_V11_AppCompat = global::TEditorExemplo.Droid.Resource.Style.Platform_V11_AppCompat;
+			global::TEditor.Resource.Style.Platform_V11_AppCompat_Light = global::TEditorExemplo.Droid.Resource.Style.Platform_V11_AppCompat_Light;
+			global::TEditor.Resource.Style.Platform_V14_AppCompat = global::TEditorExemplo.Droid.Resource.Style.Platform_V14_AppCompat;
+			global::TEditor.Resource.Style.Platform_V14_AppCompat_Light = global::TEditorExemplo.Droid.Resource.Style.Platform_V14_AppCompat_Light;
+			global::TEditor.Resource.Style.Platform_Widget_AppCompat_Spinner = global::TEditorExemplo.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::TEditor.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::TEditorExemplo.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::TEditor.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::TEditorExemplo.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::TEditor.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::TEditorExemplo.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::TEditor.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::TEditorExemplo.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::TEditor.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::TEditorExemplo.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::TEditor.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::TEditorExemplo.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::TEditor.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::TEditorExemplo.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::TEditor.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::TEditorExemplo.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::TEditor.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::TEditorExemplo.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::TEditor.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::TEditorExemplo.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::TEditor.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::TEditorExemplo.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::TEditor.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::TEditorExemplo.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::TEditor.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::TEditorExemplo.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::TEditor.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::TEditorExemplo.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Body1 = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Body2 = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Button = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Caption = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Display1 = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Display2 = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Display3 = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Display4 = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Headline = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Inverse = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Large = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Medium = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Menu = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Small = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Subhead = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Title = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::TEditor.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::TEditor.Resource.Style.TextAppearance_StatusBar_EventContent = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_StatusBar_EventContent;
+			global::TEditor.Resource.Style.TextAppearance_StatusBar_EventContent_Info = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Info;
+			global::TEditor.Resource.Style.TextAppearance_StatusBar_EventContent_Line2 = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Line2;
+			global::TEditor.Resource.Style.TextAppearance_StatusBar_EventContent_Time = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Time;
+			global::TEditor.Resource.Style.TextAppearance_StatusBar_EventContent_Title = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_StatusBar_EventContent_Title;
+			global::TEditor.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::TEditor.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::TEditor.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::TEditorExemplo.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::TEditor.Resource.Style.Theme_AppCompat = global::TEditorExemplo.Droid.Resource.Style.Theme_AppCompat;
+			global::TEditor.Resource.Style.Theme_AppCompat_CompactMenu = global::TEditorExemplo.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::TEditor.Resource.Style.Theme_AppCompat_DayNight = global::TEditorExemplo.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::TEditor.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::TEditorExemplo.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::TEditor.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::TEditorExemplo.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::TEditor.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::TEditorExemplo.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::TEditor.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::TEditorExemplo.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::TEditor.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::TEditorExemplo.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::TEditor.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::TEditorExemplo.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::TEditor.Resource.Style.Theme_AppCompat_Dialog = global::TEditorExemplo.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::TEditor.Resource.Style.Theme_AppCompat_Dialog_Alert = global::TEditorExemplo.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::TEditor.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::TEditorExemplo.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::TEditor.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::TEditorExemplo.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::TEditor.Resource.Style.Theme_AppCompat_Light = global::TEditorExemplo.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::TEditor.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::TEditorExemplo.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::TEditor.Resource.Style.Theme_AppCompat_Light_Dialog = global::TEditorExemplo.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::TEditor.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::TEditorExemplo.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::TEditor.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::TEditorExemplo.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::TEditor.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::TEditorExemplo.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::TEditor.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::TEditorExemplo.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::TEditor.Resource.Style.Theme_AppCompat_NoActionBar = global::TEditorExemplo.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::TEditor.Resource.Style.Theme_AppCompat_NoActionBar_FullScreen = global::TEditorExemplo.Droid.Resource.Style.Theme_AppCompat_NoActionBar_FullScreen;
+			global::TEditor.Resource.Style.ThemeOverlay_AppCompat = global::TEditorExemplo.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::TEditor.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::TEditorExemplo.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::TEditor.Resource.Style.ThemeOverlay_AppCompat_Dark = global::TEditorExemplo.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::TEditor.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::TEditorExemplo.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::TEditor.Resource.Style.ThemeOverlay_AppCompat_Light = global::TEditorExemplo.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::TEditor.Resource.Style.Widget_AppCompat_ActionBar = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::TEditor.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::TEditor.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::TEditor.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::TEditor.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::TEditor.Resource.Style.Widget_AppCompat_ActionButton = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::TEditor.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::TEditor.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::TEditor.Resource.Style.Widget_AppCompat_ActionMode = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::TEditor.Resource.Style.Widget_AppCompat_ActivityChooserView = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::TEditor.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::TEditor.Resource.Style.Widget_AppCompat_Button = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::TEditor.Resource.Style.Widget_AppCompat_Button_Borderless = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::TEditor.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::TEditor.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::TEditor.Resource.Style.Widget_AppCompat_Button_Colored = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::TEditor.Resource.Style.Widget_AppCompat_Button_Small = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::TEditor.Resource.Style.Widget_AppCompat_ButtonBar = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::TEditor.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::TEditor.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::TEditor.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::TEditor.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::TEditor.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::TEditor.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::TEditor.Resource.Style.Widget_AppCompat_EditText = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::TEditor.Resource.Style.Widget_AppCompat_ImageButton = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::TEditor.Resource.Style.Widget_AppCompat_Light_ActionBar = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::TEditor.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::TEditor.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::TEditor.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::TEditor.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::TEditor.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::TEditor.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::TEditor.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::TEditor.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::TEditor.Resource.Style.Widget_AppCompat_Light_ActionButton = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::TEditor.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::TEditor.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::TEditor.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::TEditor.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::TEditor.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::TEditor.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::TEditor.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::TEditor.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::TEditor.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::TEditor.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::TEditor.Resource.Style.Widget_AppCompat_Light_SearchView = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::TEditor.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::TEditor.Resource.Style.Widget_AppCompat_ListPopupWindow = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::TEditor.Resource.Style.Widget_AppCompat_ListView = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::TEditor.Resource.Style.Widget_AppCompat_ListView_DropDown = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::TEditor.Resource.Style.Widget_AppCompat_ListView_Menu = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::TEditor.Resource.Style.Widget_AppCompat_PopupMenu = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::TEditor.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::TEditor.Resource.Style.Widget_AppCompat_PopupWindow = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::TEditor.Resource.Style.Widget_AppCompat_ProgressBar = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::TEditor.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::TEditor.Resource.Style.Widget_AppCompat_RatingBar = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::TEditor.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::TEditor.Resource.Style.Widget_AppCompat_RatingBar_Small = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::TEditor.Resource.Style.Widget_AppCompat_SearchView = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::TEditor.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::TEditor.Resource.Style.Widget_AppCompat_SeekBar = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::TEditor.Resource.Style.Widget_AppCompat_Spinner = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::TEditor.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::TEditor.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::TEditor.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::TEditor.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::TEditor.Resource.Style.Widget_AppCompat_Toolbar = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::TEditor.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::TEditorExemplo.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::TEditor.Resource.Styleable.ActionBar = global::TEditorExemplo.Droid.Resource.Styleable.ActionBar;
+			global::TEditor.Resource.Styleable.ActionBar_background = global::TEditorExemplo.Droid.Resource.Styleable.ActionBar_background;
+			global::TEditor.Resource.Styleable.ActionBar_backgroundSplit = global::TEditorExemplo.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::TEditor.Resource.Styleable.ActionBar_backgroundStacked = global::TEditorExemplo.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::TEditor.Resource.Styleable.ActionBar_contentInsetEnd = global::TEditorExemplo.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::TEditor.Resource.Styleable.ActionBar_contentInsetLeft = global::TEditorExemplo.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::TEditor.Resource.Styleable.ActionBar_contentInsetRight = global::TEditorExemplo.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::TEditor.Resource.Styleable.ActionBar_contentInsetStart = global::TEditorExemplo.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::TEditor.Resource.Styleable.ActionBar_customNavigationLayout = global::TEditorExemplo.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::TEditor.Resource.Styleable.ActionBar_displayOptions = global::TEditorExemplo.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::TEditor.Resource.Styleable.ActionBar_divider = global::TEditorExemplo.Droid.Resource.Styleable.ActionBar_divider;
+			global::TEditor.Resource.Styleable.ActionBar_elevation = global::TEditorExemplo.Droid.Resource.Styleable.ActionBar_elevation;
+			global::TEditor.Resource.Styleable.ActionBar_height = global::TEditorExemplo.Droid.Resource.Styleable.ActionBar_height;
+			global::TEditor.Resource.Styleable.ActionBar_hideOnContentScroll = global::TEditorExemplo.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::TEditor.Resource.Styleable.ActionBar_homeAsUpIndicator = global::TEditorExemplo.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::TEditor.Resource.Styleable.ActionBar_homeLayout = global::TEditorExemplo.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::TEditor.Resource.Styleable.ActionBar_icon = global::TEditorExemplo.Droid.Resource.Styleable.ActionBar_icon;
+			global::TEditor.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::TEditorExemplo.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::TEditor.Resource.Styleable.ActionBar_itemPadding = global::TEditorExemplo.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::TEditor.Resource.Styleable.ActionBar_logo = global::TEditorExemplo.Droid.Resource.Styleable.ActionBar_logo;
+			global::TEditor.Resource.Styleable.ActionBar_navigationMode = global::TEditorExemplo.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::TEditor.Resource.Styleable.ActionBar_popupTheme = global::TEditorExemplo.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::TEditor.Resource.Styleable.ActionBar_progressBarPadding = global::TEditorExemplo.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::TEditor.Resource.Styleable.ActionBar_progressBarStyle = global::TEditorExemplo.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::TEditor.Resource.Styleable.ActionBar_subtitle = global::TEditorExemplo.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::TEditor.Resource.Styleable.ActionBar_subtitleTextStyle = global::TEditorExemplo.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::TEditor.Resource.Styleable.ActionBar_title = global::TEditorExemplo.Droid.Resource.Styleable.ActionBar_title;
+			global::TEditor.Resource.Styleable.ActionBar_titleTextStyle = global::TEditorExemplo.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::TEditor.Resource.Styleable.ActionBarLayout = global::TEditorExemplo.Droid.Resource.Styleable.ActionBarLayout;
+			global::TEditor.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::TEditorExemplo.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::TEditor.Resource.Styleable.ActionMenuItemView = global::TEditorExemplo.Droid.Resource.Styleable.ActionMenuItemView;
+			global::TEditor.Resource.Styleable.ActionMenuItemView_android_minWidth = global::TEditorExemplo.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::TEditor.Resource.Styleable.ActionMenuView = global::TEditorExemplo.Droid.Resource.Styleable.ActionMenuView;
+			global::TEditor.Resource.Styleable.ActionMode = global::TEditorExemplo.Droid.Resource.Styleable.ActionMode;
+			global::TEditor.Resource.Styleable.ActionMode_background = global::TEditorExemplo.Droid.Resource.Styleable.ActionMode_background;
+			global::TEditor.Resource.Styleable.ActionMode_backgroundSplit = global::TEditorExemplo.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::TEditor.Resource.Styleable.ActionMode_closeItemLayout = global::TEditorExemplo.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::TEditor.Resource.Styleable.ActionMode_height = global::TEditorExemplo.Droid.Resource.Styleable.ActionMode_height;
+			global::TEditor.Resource.Styleable.ActionMode_subtitleTextStyle = global::TEditorExemplo.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::TEditor.Resource.Styleable.ActionMode_titleTextStyle = global::TEditorExemplo.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::TEditor.Resource.Styleable.ActivityChooserView = global::TEditorExemplo.Droid.Resource.Styleable.ActivityChooserView;
+			global::TEditor.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::TEditorExemplo.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::TEditor.Resource.Styleable.ActivityChooserView_initialActivityCount = global::TEditorExemplo.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::TEditor.Resource.Styleable.AlertDialog = global::TEditorExemplo.Droid.Resource.Styleable.AlertDialog;
+			global::TEditor.Resource.Styleable.AlertDialog_android_layout = global::TEditorExemplo.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::TEditor.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::TEditorExemplo.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::TEditor.Resource.Styleable.AlertDialog_listItemLayout = global::TEditorExemplo.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::TEditor.Resource.Styleable.AlertDialog_listLayout = global::TEditorExemplo.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::TEditor.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::TEditorExemplo.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::TEditor.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::TEditorExemplo.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::TEditor.Resource.Styleable.AppCompatImageView = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatImageView;
+			global::TEditor.Resource.Styleable.AppCompatImageView_android_src = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatImageView_android_src;
+			global::TEditor.Resource.Styleable.AppCompatImageView_srcCompat = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::TEditor.Resource.Styleable.AppCompatTextView = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTextView;
+			global::TEditor.Resource.Styleable.AppCompatTextView_android_textAppearance = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::TEditor.Resource.Styleable.AppCompatTextView_textAllCaps = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::TEditor.Resource.Styleable.AppCompatTheme = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme;
+			global::TEditor.Resource.Styleable.AppCompatTheme_actionBarDivider = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::TEditor.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::TEditor.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::TEditor.Resource.Styleable.AppCompatTheme_actionBarSize = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::TEditor.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_actionBarStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_actionBarTheme = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::TEditor.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::TEditor.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::TEditor.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::TEditor.Resource.Styleable.AppCompatTheme_actionModeBackground = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::TEditor.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::TEditor.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::TEditor.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::TEditor.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::TEditor.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::TEditor.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::TEditor.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::TEditor.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::TEditor.Resource.Styleable.AppCompatTheme_actionModeStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::TEditor.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::TEditor.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::TEditor.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::TEditor.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_buttonStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::TEditor.Resource.Styleable.AppCompatTheme_checkboxStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_colorAccent = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::TEditor.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::TEditor.Resource.Styleable.AppCompatTheme_colorControlActivated = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::TEditor.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::TEditor.Resource.Styleable.AppCompatTheme_colorControlNormal = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::TEditor.Resource.Styleable.AppCompatTheme_colorPrimary = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::TEditor.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::TEditor.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::TEditor.Resource.Styleable.AppCompatTheme_controlBackground = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::TEditor.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::TEditor.Resource.Styleable.AppCompatTheme_dialogTheme = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::TEditor.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::TEditor.Resource.Styleable.AppCompatTheme_dividerVertical = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::TEditor.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::TEditor.Resource.Styleable.AppCompatTheme_editTextBackground = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::TEditor.Resource.Styleable.AppCompatTheme_editTextColor = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::TEditor.Resource.Styleable.AppCompatTheme_editTextStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::TEditor.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::TEditor.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::TEditor.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::TEditor.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::TEditor.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::TEditor.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::TEditor.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::TEditor.Resource.Styleable.AppCompatTheme_panelBackground = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::TEditor.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::TEditor.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::TEditor.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::TEditor.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::TEditor.Resource.Styleable.AppCompatTheme_searchViewStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_seekBarStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::TEditor.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::TEditor.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_spinnerStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_switchStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::TEditor.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::TEditor.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::TEditor.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::TEditor.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::TEditor.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::TEditor.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_toolbarStyle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::TEditor.Resource.Styleable.AppCompatTheme_windowActionBar = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::TEditor.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::TEditor.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::TEditor.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::TEditor.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::TEditor.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::TEditor.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::TEditor.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::TEditor.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::TEditor.Resource.Styleable.AppCompatTheme_windowNoTitle = global::TEditorExemplo.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::TEditor.Resource.Styleable.ButtonBarLayout = global::TEditorExemplo.Droid.Resource.Styleable.ButtonBarLayout;
+			global::TEditor.Resource.Styleable.ButtonBarLayout_allowStacking = global::TEditorExemplo.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::TEditor.Resource.Styleable.CompoundButton = global::TEditorExemplo.Droid.Resource.Styleable.CompoundButton;
+			global::TEditor.Resource.Styleable.CompoundButton_android_button = global::TEditorExemplo.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::TEditor.Resource.Styleable.CompoundButton_buttonTint = global::TEditorExemplo.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::TEditor.Resource.Styleable.CompoundButton_buttonTintMode = global::TEditorExemplo.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::TEditor.Resource.Styleable.DrawerArrowToggle = global::TEditorExemplo.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::TEditor.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::TEditorExemplo.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::TEditor.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::TEditorExemplo.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::TEditor.Resource.Styleable.DrawerArrowToggle_barLength = global::TEditorExemplo.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::TEditor.Resource.Styleable.DrawerArrowToggle_color = global::TEditorExemplo.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::TEditor.Resource.Styleable.DrawerArrowToggle_drawableSize = global::TEditorExemplo.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::TEditor.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::TEditorExemplo.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::TEditor.Resource.Styleable.DrawerArrowToggle_spinBars = global::TEditorExemplo.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::TEditor.Resource.Styleable.DrawerArrowToggle_thickness = global::TEditorExemplo.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::TEditor.Resource.Styleable.LinearLayoutCompat = global::TEditorExemplo.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::TEditor.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::TEditorExemplo.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::TEditor.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::TEditorExemplo.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::TEditor.Resource.Styleable.LinearLayoutCompat_android_gravity = global::TEditorExemplo.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::TEditor.Resource.Styleable.LinearLayoutCompat_android_orientation = global::TEditorExemplo.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::TEditor.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::TEditorExemplo.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::TEditor.Resource.Styleable.LinearLayoutCompat_divider = global::TEditorExemplo.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::TEditor.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::TEditorExemplo.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::TEditor.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::TEditorExemplo.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::TEditor.Resource.Styleable.LinearLayoutCompat_showDividers = global::TEditorExemplo.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::TEditor.Resource.Styleable.LinearLayoutCompat_Layout = global::TEditorExemplo.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::TEditor.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::TEditorExemplo.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::TEditor.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::TEditorExemplo.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::TEditor.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::TEditorExemplo.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::TEditor.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::TEditorExemplo.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::TEditor.Resource.Styleable.ListPopupWindow = global::TEditorExemplo.Droid.Resource.Styleable.ListPopupWindow;
+			global::TEditor.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::TEditorExemplo.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::TEditor.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::TEditorExemplo.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::TEditor.Resource.Styleable.MenuGroup = global::TEditorExemplo.Droid.Resource.Styleable.MenuGroup;
+			global::TEditor.Resource.Styleable.MenuGroup_android_checkableBehavior = global::TEditorExemplo.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::TEditor.Resource.Styleable.MenuGroup_android_enabled = global::TEditorExemplo.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::TEditor.Resource.Styleable.MenuGroup_android_id = global::TEditorExemplo.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::TEditor.Resource.Styleable.MenuGroup_android_menuCategory = global::TEditorExemplo.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::TEditor.Resource.Styleable.MenuGroup_android_orderInCategory = global::TEditorExemplo.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::TEditor.Resource.Styleable.MenuGroup_android_visible = global::TEditorExemplo.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::TEditor.Resource.Styleable.MenuItem = global::TEditorExemplo.Droid.Resource.Styleable.MenuItem;
+			global::TEditor.Resource.Styleable.MenuItem_actionLayout = global::TEditorExemplo.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::TEditor.Resource.Styleable.MenuItem_actionProviderClass = global::TEditorExemplo.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::TEditor.Resource.Styleable.MenuItem_actionViewClass = global::TEditorExemplo.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::TEditor.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::TEditorExemplo.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::TEditor.Resource.Styleable.MenuItem_android_checkable = global::TEditorExemplo.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::TEditor.Resource.Styleable.MenuItem_android_checked = global::TEditorExemplo.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::TEditor.Resource.Styleable.MenuItem_android_enabled = global::TEditorExemplo.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::TEditor.Resource.Styleable.MenuItem_android_icon = global::TEditorExemplo.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::TEditor.Resource.Styleable.MenuItem_android_id = global::TEditorExemplo.Droid.Resource.Styleable.MenuItem_android_id;
+			global::TEditor.Resource.Styleable.MenuItem_android_menuCategory = global::TEditorExemplo.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::TEditor.Resource.Styleable.MenuItem_android_numericShortcut = global::TEditorExemplo.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::TEditor.Resource.Styleable.MenuItem_android_onClick = global::TEditorExemplo.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::TEditor.Resource.Styleable.MenuItem_android_orderInCategory = global::TEditorExemplo.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::TEditor.Resource.Styleable.MenuItem_android_title = global::TEditorExemplo.Droid.Resource.Styleable.MenuItem_android_title;
+			global::TEditor.Resource.Styleable.MenuItem_android_titleCondensed = global::TEditorExemplo.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::TEditor.Resource.Styleable.MenuItem_android_visible = global::TEditorExemplo.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::TEditor.Resource.Styleable.MenuItem_showAsAction = global::TEditorExemplo.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::TEditor.Resource.Styleable.MenuView = global::TEditorExemplo.Droid.Resource.Styleable.MenuView;
+			global::TEditor.Resource.Styleable.MenuView_android_headerBackground = global::TEditorExemplo.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::TEditor.Resource.Styleable.MenuView_android_horizontalDivider = global::TEditorExemplo.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::TEditor.Resource.Styleable.MenuView_android_itemBackground = global::TEditorExemplo.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::TEditor.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::TEditorExemplo.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::TEditor.Resource.Styleable.MenuView_android_itemTextAppearance = global::TEditorExemplo.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::TEditor.Resource.Styleable.MenuView_android_verticalDivider = global::TEditorExemplo.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::TEditor.Resource.Styleable.MenuView_android_windowAnimationStyle = global::TEditorExemplo.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::TEditor.Resource.Styleable.MenuView_preserveIconSpacing = global::TEditorExemplo.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::TEditor.Resource.Styleable.PopupWindow = global::TEditorExemplo.Droid.Resource.Styleable.PopupWindow;
+			global::TEditor.Resource.Styleable.PopupWindow_android_popupBackground = global::TEditorExemplo.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::TEditor.Resource.Styleable.PopupWindow_overlapAnchor = global::TEditorExemplo.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::TEditor.Resource.Styleable.PopupWindowBackgroundState = global::TEditorExemplo.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::TEditor.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::TEditorExemplo.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::TEditor.Resource.Styleable.SearchView = global::TEditorExemplo.Droid.Resource.Styleable.SearchView;
+			global::TEditor.Resource.Styleable.SearchView_android_focusable = global::TEditorExemplo.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::TEditor.Resource.Styleable.SearchView_android_imeOptions = global::TEditorExemplo.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::TEditor.Resource.Styleable.SearchView_android_inputType = global::TEditorExemplo.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::TEditor.Resource.Styleable.SearchView_android_maxWidth = global::TEditorExemplo.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::TEditor.Resource.Styleable.SearchView_closeIcon = global::TEditorExemplo.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::TEditor.Resource.Styleable.SearchView_commitIcon = global::TEditorExemplo.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::TEditor.Resource.Styleable.SearchView_defaultQueryHint = global::TEditorExemplo.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::TEditor.Resource.Styleable.SearchView_goIcon = global::TEditorExemplo.Droid.Resource.Styleable.SearchView_goIcon;
+			global::TEditor.Resource.Styleable.SearchView_iconifiedByDefault = global::TEditorExemplo.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::TEditor.Resource.Styleable.SearchView_layout = global::TEditorExemplo.Droid.Resource.Styleable.SearchView_layout;
+			global::TEditor.Resource.Styleable.SearchView_queryBackground = global::TEditorExemplo.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::TEditor.Resource.Styleable.SearchView_queryHint = global::TEditorExemplo.Droid.Resource.Styleable.SearchView_queryHint;
+			global::TEditor.Resource.Styleable.SearchView_searchHintIcon = global::TEditorExemplo.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::TEditor.Resource.Styleable.SearchView_searchIcon = global::TEditorExemplo.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::TEditor.Resource.Styleable.SearchView_submitBackground = global::TEditorExemplo.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::TEditor.Resource.Styleable.SearchView_suggestionRowLayout = global::TEditorExemplo.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::TEditor.Resource.Styleable.SearchView_voiceIcon = global::TEditorExemplo.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::TEditor.Resource.Styleable.Spinner = global::TEditorExemplo.Droid.Resource.Styleable.Spinner;
+			global::TEditor.Resource.Styleable.Spinner_android_dropDownWidth = global::TEditorExemplo.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::TEditor.Resource.Styleable.Spinner_android_entries = global::TEditorExemplo.Droid.Resource.Styleable.Spinner_android_entries;
+			global::TEditor.Resource.Styleable.Spinner_android_popupBackground = global::TEditorExemplo.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::TEditor.Resource.Styleable.Spinner_android_prompt = global::TEditorExemplo.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::TEditor.Resource.Styleable.Spinner_popupTheme = global::TEditorExemplo.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::TEditor.Resource.Styleable.SwitchCompat = global::TEditorExemplo.Droid.Resource.Styleable.SwitchCompat;
+			global::TEditor.Resource.Styleable.SwitchCompat_android_textOff = global::TEditorExemplo.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::TEditor.Resource.Styleable.SwitchCompat_android_textOn = global::TEditorExemplo.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::TEditor.Resource.Styleable.SwitchCompat_android_thumb = global::TEditorExemplo.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::TEditor.Resource.Styleable.SwitchCompat_showText = global::TEditorExemplo.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::TEditor.Resource.Styleable.SwitchCompat_splitTrack = global::TEditorExemplo.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::TEditor.Resource.Styleable.SwitchCompat_switchMinWidth = global::TEditorExemplo.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::TEditor.Resource.Styleable.SwitchCompat_switchPadding = global::TEditorExemplo.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::TEditor.Resource.Styleable.SwitchCompat_switchTextAppearance = global::TEditorExemplo.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::TEditor.Resource.Styleable.SwitchCompat_thumbTextPadding = global::TEditorExemplo.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::TEditor.Resource.Styleable.SwitchCompat_track = global::TEditorExemplo.Droid.Resource.Styleable.SwitchCompat_track;
+			global::TEditor.Resource.Styleable.TextAppearance = global::TEditorExemplo.Droid.Resource.Styleable.TextAppearance;
+			global::TEditor.Resource.Styleable.TextAppearance_android_shadowColor = global::TEditorExemplo.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::TEditor.Resource.Styleable.TextAppearance_android_shadowDx = global::TEditorExemplo.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::TEditor.Resource.Styleable.TextAppearance_android_shadowDy = global::TEditorExemplo.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::TEditor.Resource.Styleable.TextAppearance_android_shadowRadius = global::TEditorExemplo.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::TEditor.Resource.Styleable.TextAppearance_android_textColor = global::TEditorExemplo.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::TEditor.Resource.Styleable.TextAppearance_android_textSize = global::TEditorExemplo.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::TEditor.Resource.Styleable.TextAppearance_android_textStyle = global::TEditorExemplo.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::TEditor.Resource.Styleable.TextAppearance_android_typeface = global::TEditorExemplo.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::TEditor.Resource.Styleable.TextAppearance_textAllCaps = global::TEditorExemplo.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::TEditor.Resource.Styleable.Toolbar = global::TEditorExemplo.Droid.Resource.Styleable.Toolbar;
+			global::TEditor.Resource.Styleable.Toolbar_android_gravity = global::TEditorExemplo.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::TEditor.Resource.Styleable.Toolbar_android_minHeight = global::TEditorExemplo.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::TEditor.Resource.Styleable.Toolbar_collapseContentDescription = global::TEditorExemplo.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::TEditor.Resource.Styleable.Toolbar_collapseIcon = global::TEditorExemplo.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::TEditor.Resource.Styleable.Toolbar_contentInsetEnd = global::TEditorExemplo.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::TEditor.Resource.Styleable.Toolbar_contentInsetLeft = global::TEditorExemplo.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::TEditor.Resource.Styleable.Toolbar_contentInsetRight = global::TEditorExemplo.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::TEditor.Resource.Styleable.Toolbar_contentInsetStart = global::TEditorExemplo.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::TEditor.Resource.Styleable.Toolbar_logo = global::TEditorExemplo.Droid.Resource.Styleable.Toolbar_logo;
+			global::TEditor.Resource.Styleable.Toolbar_logoDescription = global::TEditorExemplo.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::TEditor.Resource.Styleable.Toolbar_maxButtonHeight = global::TEditorExemplo.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::TEditor.Resource.Styleable.Toolbar_navigationContentDescription = global::TEditorExemplo.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::TEditor.Resource.Styleable.Toolbar_navigationIcon = global::TEditorExemplo.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::TEditor.Resource.Styleable.Toolbar_popupTheme = global::TEditorExemplo.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::TEditor.Resource.Styleable.Toolbar_subtitle = global::TEditorExemplo.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::TEditor.Resource.Styleable.Toolbar_subtitleTextAppearance = global::TEditorExemplo.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::TEditor.Resource.Styleable.Toolbar_subtitleTextColor = global::TEditorExemplo.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::TEditor.Resource.Styleable.Toolbar_title = global::TEditorExemplo.Droid.Resource.Styleable.Toolbar_title;
+			global::TEditor.Resource.Styleable.Toolbar_titleMarginBottom = global::TEditorExemplo.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::TEditor.Resource.Styleable.Toolbar_titleMarginEnd = global::TEditorExemplo.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::TEditor.Resource.Styleable.Toolbar_titleMarginStart = global::TEditorExemplo.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::TEditor.Resource.Styleable.Toolbar_titleMarginTop = global::TEditorExemplo.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::TEditor.Resource.Styleable.Toolbar_titleMargins = global::TEditorExemplo.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::TEditor.Resource.Styleable.Toolbar_titleTextAppearance = global::TEditorExemplo.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::TEditor.Resource.Styleable.Toolbar_titleTextColor = global::TEditorExemplo.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::TEditor.Resource.Styleable.View = global::TEditorExemplo.Droid.Resource.Styleable.View;
+			global::TEditor.Resource.Styleable.View_android_focusable = global::TEditorExemplo.Droid.Resource.Styleable.View_android_focusable;
+			global::TEditor.Resource.Styleable.View_android_theme = global::TEditorExemplo.Droid.Resource.Styleable.View_android_theme;
+			global::TEditor.Resource.Styleable.View_paddingEnd = global::TEditorExemplo.Droid.Resource.Styleable.View_paddingEnd;
+			global::TEditor.Resource.Styleable.View_paddingStart = global::TEditorExemplo.Droid.Resource.Styleable.View_paddingStart;
+			global::TEditor.Resource.Styleable.View_theme = global::TEditorExemplo.Droid.Resource.Styleable.View_theme;
+			global::TEditor.Resource.Styleable.ViewBackgroundHelper = global::TEditorExemplo.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::TEditor.Resource.Styleable.ViewBackgroundHelper_android_background = global::TEditorExemplo.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::TEditor.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::TEditorExemplo.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::TEditor.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::TEditorExemplo.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::TEditor.Resource.Styleable.ViewStubCompat = global::TEditorExemplo.Droid.Resource.Styleable.ViewStubCompat;
+			global::TEditor.Resource.Styleable.ViewStubCompat_android_id = global::TEditorExemplo.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::TEditor.Resource.Styleable.ViewStubCompat_android_inflatedId = global::TEditorExemplo.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::TEditor.Resource.Styleable.ViewStubCompat_android_layout = global::TEditorExemplo.Droid.Resource.Styleable.ViewStubCompat_android_layout;
 			global::Xamarin.Forms.Platform.Android.Resource.Attribute.actionBarSize = global::TEditorExemplo.Droid.Resource.Attribute.actionBarSize;
 		}
 		
@@ -2192,8 +3477,26 @@ namespace TEditorExemplo.Droid
 			// aapt resource value: 0x7f020053
 			public const int avd_hide_password = 2130837587;
 			
+			// aapt resource value: 0x7f020134
+			public const int avd_hide_password_1 = 2130837812;
+			
+			// aapt resource value: 0x7f020135
+			public const int avd_hide_password_2 = 2130837813;
+			
+			// aapt resource value: 0x7f020136
+			public const int avd_hide_password_3 = 2130837814;
+			
 			// aapt resource value: 0x7f020054
 			public const int avd_show_password = 2130837588;
+			
+			// aapt resource value: 0x7f020137
+			public const int avd_show_password_1 = 2130837815;
+			
+			// aapt resource value: 0x7f020138
+			public const int avd_show_password_2 = 2130837816;
+			
+			// aapt resource value: 0x7f020139
+			public const int avd_show_password_3 = 2130837817;
 			
 			// aapt resource value: 0x7f020055
 			public const int design_bottom_navigation_item_background = 2130837589;
@@ -2652,103 +3955,217 @@ namespace TEditorExemplo.Droid
 			public const int icon = 2130837740;
 			
 			// aapt resource value: 0x7f0200ed
-			public const int mr_button_connected_dark = 2130837741;
+			public const int MenuDiscard = 2130837741;
 			
 			// aapt resource value: 0x7f0200ee
-			public const int mr_button_connected_light = 2130837742;
+			public const int MenuSave = 2130837742;
 			
 			// aapt resource value: 0x7f0200ef
-			public const int mr_button_connecting_dark = 2130837743;
+			public const int mr_button_connected_dark = 2130837743;
 			
 			// aapt resource value: 0x7f0200f0
-			public const int mr_button_connecting_light = 2130837744;
+			public const int mr_button_connected_light = 2130837744;
 			
 			// aapt resource value: 0x7f0200f1
-			public const int mr_button_dark = 2130837745;
+			public const int mr_button_connecting_dark = 2130837745;
 			
 			// aapt resource value: 0x7f0200f2
-			public const int mr_button_light = 2130837746;
+			public const int mr_button_connecting_light = 2130837746;
 			
 			// aapt resource value: 0x7f0200f3
-			public const int mr_dialog_close_dark = 2130837747;
+			public const int mr_button_dark = 2130837747;
 			
 			// aapt resource value: 0x7f0200f4
-			public const int mr_dialog_close_light = 2130837748;
+			public const int mr_button_light = 2130837748;
 			
 			// aapt resource value: 0x7f0200f5
-			public const int mr_dialog_material_background_dark = 2130837749;
+			public const int mr_dialog_close_dark = 2130837749;
 			
 			// aapt resource value: 0x7f0200f6
-			public const int mr_dialog_material_background_light = 2130837750;
+			public const int mr_dialog_close_light = 2130837750;
 			
 			// aapt resource value: 0x7f0200f7
-			public const int mr_group_collapse = 2130837751;
+			public const int mr_dialog_material_background_dark = 2130837751;
 			
 			// aapt resource value: 0x7f0200f8
-			public const int mr_group_expand = 2130837752;
+			public const int mr_dialog_material_background_light = 2130837752;
 			
 			// aapt resource value: 0x7f0200f9
-			public const int mr_media_pause_dark = 2130837753;
+			public const int mr_group_collapse = 2130837753;
 			
 			// aapt resource value: 0x7f0200fa
-			public const int mr_media_pause_light = 2130837754;
+			public const int mr_group_expand = 2130837754;
 			
 			// aapt resource value: 0x7f0200fb
-			public const int mr_media_play_dark = 2130837755;
+			public const int mr_media_pause_dark = 2130837755;
 			
 			// aapt resource value: 0x7f0200fc
-			public const int mr_media_play_light = 2130837756;
+			public const int mr_media_pause_light = 2130837756;
 			
 			// aapt resource value: 0x7f0200fd
-			public const int mr_media_stop_dark = 2130837757;
+			public const int mr_media_play_dark = 2130837757;
 			
 			// aapt resource value: 0x7f0200fe
-			public const int mr_media_stop_light = 2130837758;
+			public const int mr_media_play_light = 2130837758;
 			
 			// aapt resource value: 0x7f0200ff
-			public const int mr_vol_type_audiotrack_dark = 2130837759;
+			public const int mr_media_stop_dark = 2130837759;
 			
 			// aapt resource value: 0x7f020100
-			public const int mr_vol_type_audiotrack_light = 2130837760;
+			public const int mr_media_stop_light = 2130837760;
 			
 			// aapt resource value: 0x7f020101
-			public const int navigation_empty_icon = 2130837761;
+			public const int mr_vol_type_audiotrack_dark = 2130837761;
 			
 			// aapt resource value: 0x7f020102
-			public const int notification_action_background = 2130837762;
+			public const int mr_vol_type_audiotrack_light = 2130837762;
 			
 			// aapt resource value: 0x7f020103
-			public const int notification_bg = 2130837763;
+			public const int navigation_empty_icon = 2130837763;
 			
 			// aapt resource value: 0x7f020104
-			public const int notification_bg_low = 2130837764;
+			public const int notification_action_background = 2130837764;
 			
 			// aapt resource value: 0x7f020105
-			public const int notification_bg_low_normal = 2130837765;
+			public const int notification_bg = 2130837765;
 			
 			// aapt resource value: 0x7f020106
-			public const int notification_bg_low_pressed = 2130837766;
+			public const int notification_bg_low = 2130837766;
 			
 			// aapt resource value: 0x7f020107
-			public const int notification_bg_normal = 2130837767;
+			public const int notification_bg_low_normal = 2130837767;
 			
 			// aapt resource value: 0x7f020108
-			public const int notification_bg_normal_pressed = 2130837768;
+			public const int notification_bg_low_pressed = 2130837768;
 			
 			// aapt resource value: 0x7f020109
-			public const int notification_icon_background = 2130837769;
-			
-			// aapt resource value: 0x7f02010c
-			public const int notification_template_icon_bg = 2130837772;
-			
-			// aapt resource value: 0x7f02010d
-			public const int notification_template_icon_low_bg = 2130837773;
+			public const int notification_bg_normal = 2130837769;
 			
 			// aapt resource value: 0x7f02010a
-			public const int notification_tile_bg = 2130837770;
+			public const int notification_bg_normal_pressed = 2130837770;
 			
 			// aapt resource value: 0x7f02010b
-			public const int notify_panel_notification_icon_bg = 2130837771;
+			public const int notification_icon_background = 2130837771;
+			
+			// aapt resource value: 0x7f020132
+			public const int notification_template_icon_bg = 2130837810;
+			
+			// aapt resource value: 0x7f020133
+			public const int notification_template_icon_low_bg = 2130837811;
+			
+			// aapt resource value: 0x7f02010c
+			public const int notification_tile_bg = 2130837772;
+			
+			// aapt resource value: 0x7f02010d
+			public const int notify_panel_notification_icon_bg = 2130837773;
+			
+			// aapt resource value: 0x7f02010e
+			public const int ZSSbgcolor = 2130837774;
+			
+			// aapt resource value: 0x7f02010f
+			public const int ZSSbold = 2130837775;
+			
+			// aapt resource value: 0x7f020110
+			public const int ZSScenterjustify = 2130837776;
+			
+			// aapt resource value: 0x7f020111
+			public const int ZSSclearstyle = 2130837777;
+			
+			// aapt resource value: 0x7f020112
+			public const int ZSSforcejustify = 2130837778;
+			
+			// aapt resource value: 0x7f020113
+			public const int ZSSh1 = 2130837779;
+			
+			// aapt resource value: 0x7f020114
+			public const int ZSSh2 = 2130837780;
+			
+			// aapt resource value: 0x7f020115
+			public const int ZSSh3 = 2130837781;
+			
+			// aapt resource value: 0x7f020116
+			public const int ZSSh4 = 2130837782;
+			
+			// aapt resource value: 0x7f020117
+			public const int ZSSh5 = 2130837783;
+			
+			// aapt resource value: 0x7f020118
+			public const int ZSSh6 = 2130837784;
+			
+			// aapt resource value: 0x7f020119
+			public const int ZSShorizontalrule = 2130837785;
+			
+			// aapt resource value: 0x7f02011a
+			public const int ZSSimage = 2130837786;
+			
+			// aapt resource value: 0x7f02011b
+			public const int ZSSindent = 2130837787;
+			
+			// aapt resource value: 0x7f02011c
+			public const int ZSSinsertkeyword = 2130837788;
+			
+			// aapt resource value: 0x7f02011d
+			public const int ZSSitalic = 2130837789;
+			
+			// aapt resource value: 0x7f02011e
+			public const int ZSSkeyboard = 2130837790;
+			
+			// aapt resource value: 0x7f02011f
+			public const int ZSSleftjustify = 2130837791;
+			
+			// aapt resource value: 0x7f020120
+			public const int ZSSlink = 2130837792;
+			
+			// aapt resource value: 0x7f020121
+			public const int ZSSorderedlist = 2130837793;
+			
+			// aapt resource value: 0x7f020122
+			public const int ZSSoutdent = 2130837794;
+			
+			// aapt resource value: 0x7f020123
+			public const int ZSSparagraph = 2130837795;
+			
+			// aapt resource value: 0x7f020124
+			public const int ZSSpicker = 2130837796;
+			
+			// aapt resource value: 0x7f020125
+			public const int ZSSquicklink = 2130837797;
+			
+			// aapt resource value: 0x7f020126
+			public const int ZSSredo = 2130837798;
+			
+			// aapt resource value: 0x7f020127
+			public const int ZSSrightjustify = 2130837799;
+			
+			// aapt resource value: 0x7f020128
+			public const int ZSSstrikethrough = 2130837800;
+			
+			// aapt resource value: 0x7f020129
+			public const int ZSSsubscript = 2130837801;
+			
+			// aapt resource value: 0x7f02012a
+			public const int ZSSsuperscript = 2130837802;
+			
+			// aapt resource value: 0x7f02012b
+			public const int ZSStable = 2130837803;
+			
+			// aapt resource value: 0x7f02012c
+			public const int ZSStextcolor = 2130837804;
+			
+			// aapt resource value: 0x7f02012d
+			public const int ZSSunderline = 2130837805;
+			
+			// aapt resource value: 0x7f02012e
+			public const int ZSSundo = 2130837806;
+			
+			// aapt resource value: 0x7f02012f
+			public const int ZSSunlink = 2130837807;
+			
+			// aapt resource value: 0x7f020130
+			public const int ZSSunorderedlist = 2130837808;
+			
+			// aapt resource value: 0x7f020131
+			public const int ZSSviewsource = 2130837809;
 			
 			static Drawable()
 			{
@@ -2763,8 +4180,23 @@ namespace TEditorExemplo.Droid
 		public partial class Id
 		{
 			
-			// aapt resource value: 0x7f08009e
-			public const int action0 = 2131230878;
+			// aapt resource value: 0x7f0800b8
+			public const int EditorWebView = 2131230904;
+			
+			// aapt resource value: 0x7f0800b6
+			public const int RootRelativeLayout = 2131230902;
+			
+			// aapt resource value: 0x7f0800ba
+			public const int ToolbarItemsLayout = 2131230906;
+			
+			// aapt resource value: 0x7f0800b9
+			public const int ToolbarLayout = 2131230905;
+			
+			// aapt resource value: 0x7f0800b7
+			public const int TopToolbar = 2131230903;
+			
+			// aapt resource value: 0x7f0800a1
+			public const int action0 = 2131230881;
 			
 			// aapt resource value: 0x7f080064
 			public const int action_bar = 2131230820;
@@ -2787,17 +4219,17 @@ namespace TEditorExemplo.Droid
 			// aapt resource value: 0x7f080041
 			public const int action_bar_title = 2131230785;
 			
-			// aapt resource value: 0x7f08009b
-			public const int action_container = 2131230875;
+			// aapt resource value: 0x7f08009e
+			public const int action_container = 2131230878;
 			
 			// aapt resource value: 0x7f080065
 			public const int action_context_bar = 2131230821;
 			
-			// aapt resource value: 0x7f0800a2
-			public const int action_divider = 2131230882;
+			// aapt resource value: 0x7f0800a5
+			public const int action_divider = 2131230885;
 			
-			// aapt resource value: 0x7f08009c
-			public const int action_image = 2131230876;
+			// aapt resource value: 0x7f08009f
+			public const int action_image = 2131230879;
 			
 			// aapt resource value: 0x7f080003
 			public const int action_menu_divider = 2131230723;
@@ -2814,11 +4246,11 @@ namespace TEditorExemplo.Droid
 			// aapt resource value: 0x7f080043
 			public const int action_mode_close_button = 2131230787;
 			
-			// aapt resource value: 0x7f08009d
-			public const int action_text = 2131230877;
+			// aapt resource value: 0x7f0800a0
+			public const int action_text = 2131230880;
 			
-			// aapt resource value: 0x7f0800ab
-			public const int actions = 2131230891;
+			// aapt resource value: 0x7f0800ae
+			public const int actions = 2131230894;
 			
 			// aapt resource value: 0x7f080044
 			public const int activity_chooser_view_content = 2131230788;
@@ -2847,8 +4279,8 @@ namespace TEditorExemplo.Droid
 			// aapt resource value: 0x7f08004b
 			public const int buttonPanel = 2131230795;
 			
-			// aapt resource value: 0x7f08009f
-			public const int cancel_action = 2131230879;
+			// aapt resource value: 0x7f0800a2
+			public const int cancel_action = 2131230882;
 			
 			// aapt resource value: 0x7f080030
 			public const int center = 2131230768;
@@ -2862,8 +4294,8 @@ namespace TEditorExemplo.Droid
 			// aapt resource value: 0x7f08005b
 			public const int checkbox = 2131230811;
 			
-			// aapt resource value: 0x7f0800a7
-			public const int chronometer = 2131230887;
+			// aapt resource value: 0x7f0800aa
+			public const int chronometer = 2131230890;
 			
 			// aapt resource value: 0x7f080039
 			public const int clip_horizontal = 2131230777;
@@ -2873,6 +4305,9 @@ namespace TEditorExemplo.Droid
 			
 			// aapt resource value: 0x7f080024
 			public const int collapseActionView = 2131230756;
+			
+			// aapt resource value: 0x7f080081
+			public const int color_picker_view = 2131230849;
 			
 			// aapt resource value: 0x7f080075
 			public const int container = 2131230837;
@@ -2919,8 +4354,8 @@ namespace TEditorExemplo.Droid
 			// aapt resource value: 0x7f080021
 			public const int end = 2131230753;
 			
-			// aapt resource value: 0x7f0800b1
-			public const int end_padder = 2131230897;
+			// aapt resource value: 0x7f0800b4
+			public const int end_padder = 2131230900;
 			
 			// aapt resource value: 0x7f08002a
 			public const int enterAlways = 2131230762;
@@ -2958,8 +4393,8 @@ namespace TEditorExemplo.Droid
 			// aapt resource value: 0x7f080049
 			public const int icon = 2131230793;
 			
-			// aapt resource value: 0x7f0800ac
-			public const int icon_group = 2131230892;
+			// aapt resource value: 0x7f0800af
+			public const int icon_group = 2131230895;
 			
 			// aapt resource value: 0x7f080025
 			public const int ifRoom = 2131230757;
@@ -2967,8 +4402,8 @@ namespace TEditorExemplo.Droid
 			// aapt resource value: 0x7f080046
 			public const int image = 2131230790;
 			
-			// aapt resource value: 0x7f0800a8
-			public const int info = 2131230888;
+			// aapt resource value: 0x7f0800ab
+			public const int info = 2131230891;
 			
 			// aapt resource value: 0x7f080000
 			public const int item_touch_helper_previous_elevation = 2131230720;
@@ -2979,11 +4414,11 @@ namespace TEditorExemplo.Droid
 			// aapt resource value: 0x7f080034
 			public const int left = 2131230772;
 			
-			// aapt resource value: 0x7f0800ad
-			public const int line1 = 2131230893;
+			// aapt resource value: 0x7f0800b0
+			public const int line1 = 2131230896;
 			
-			// aapt resource value: 0x7f0800af
-			public const int line3 = 2131230895;
+			// aapt resource value: 0x7f0800b2
+			public const int line3 = 2131230898;
 			
 			// aapt resource value: 0x7f08000f
 			public const int listMode = 2131230735;
@@ -2991,11 +4426,17 @@ namespace TEditorExemplo.Droid
 			// aapt resource value: 0x7f080048
 			public const int list_item = 2131230792;
 			
-			// aapt resource value: 0x7f0800b5
-			public const int masked = 2131230901;
+			// aapt resource value: 0x7f0800bd
+			public const int masked = 2131230909;
 			
-			// aapt resource value: 0x7f0800a1
-			public const int media_actions = 2131230881;
+			// aapt resource value: 0x7f0800a4
+			public const int media_actions = 2131230884;
+			
+			// aapt resource value: 0x7f0800be
+			public const int menu_cancel = 2131230910;
+			
+			// aapt resource value: 0x7f0800bf
+			public const int menu_done = 2131230911;
 			
 			// aapt resource value: 0x7f080022
 			public const int middle = 2131230754;
@@ -3003,80 +4444,80 @@ namespace TEditorExemplo.Droid
 			// aapt resource value: 0x7f08003e
 			public const int mini = 2131230782;
 			
-			// aapt resource value: 0x7f08008d
-			public const int mr_art = 2131230861;
-			
-			// aapt resource value: 0x7f080082
-			public const int mr_chooser_list = 2131230850;
+			// aapt resource value: 0x7f080090
+			public const int mr_art = 2131230864;
 			
 			// aapt resource value: 0x7f080085
-			public const int mr_chooser_route_desc = 2131230853;
-			
-			// aapt resource value: 0x7f080083
-			public const int mr_chooser_route_icon = 2131230851;
-			
-			// aapt resource value: 0x7f080084
-			public const int mr_chooser_route_name = 2131230852;
-			
-			// aapt resource value: 0x7f080081
-			public const int mr_chooser_title = 2131230849;
-			
-			// aapt resource value: 0x7f08008a
-			public const int mr_close = 2131230858;
-			
-			// aapt resource value: 0x7f080090
-			public const int mr_control_divider = 2131230864;
-			
-			// aapt resource value: 0x7f080096
-			public const int mr_control_playback_ctrl = 2131230870;
-			
-			// aapt resource value: 0x7f080099
-			public const int mr_control_subtitle = 2131230873;
-			
-			// aapt resource value: 0x7f080098
-			public const int mr_control_title = 2131230872;
-			
-			// aapt resource value: 0x7f080097
-			public const int mr_control_title_container = 2131230871;
-			
-			// aapt resource value: 0x7f08008b
-			public const int mr_custom_control = 2131230859;
-			
-			// aapt resource value: 0x7f08008c
-			public const int mr_default_control = 2131230860;
-			
-			// aapt resource value: 0x7f080087
-			public const int mr_dialog_area = 2131230855;
-			
-			// aapt resource value: 0x7f080086
-			public const int mr_expandable_area = 2131230854;
-			
-			// aapt resource value: 0x7f08009a
-			public const int mr_group_expand_collapse = 2131230874;
-			
-			// aapt resource value: 0x7f08008e
-			public const int mr_media_main_control = 2131230862;
-			
-			// aapt resource value: 0x7f080089
-			public const int mr_name = 2131230857;
-			
-			// aapt resource value: 0x7f08008f
-			public const int mr_playback_control = 2131230863;
+			public const int mr_chooser_list = 2131230853;
 			
 			// aapt resource value: 0x7f080088
-			public const int mr_title_bar = 2131230856;
+			public const int mr_chooser_route_desc = 2131230856;
+			
+			// aapt resource value: 0x7f080086
+			public const int mr_chooser_route_icon = 2131230854;
+			
+			// aapt resource value: 0x7f080087
+			public const int mr_chooser_route_name = 2131230855;
+			
+			// aapt resource value: 0x7f080084
+			public const int mr_chooser_title = 2131230852;
+			
+			// aapt resource value: 0x7f08008d
+			public const int mr_close = 2131230861;
+			
+			// aapt resource value: 0x7f080093
+			public const int mr_control_divider = 2131230867;
+			
+			// aapt resource value: 0x7f080099
+			public const int mr_control_playback_ctrl = 2131230873;
+			
+			// aapt resource value: 0x7f08009c
+			public const int mr_control_subtitle = 2131230876;
+			
+			// aapt resource value: 0x7f08009b
+			public const int mr_control_title = 2131230875;
+			
+			// aapt resource value: 0x7f08009a
+			public const int mr_control_title_container = 2131230874;
+			
+			// aapt resource value: 0x7f08008e
+			public const int mr_custom_control = 2131230862;
+			
+			// aapt resource value: 0x7f08008f
+			public const int mr_default_control = 2131230863;
+			
+			// aapt resource value: 0x7f08008a
+			public const int mr_dialog_area = 2131230858;
+			
+			// aapt resource value: 0x7f080089
+			public const int mr_expandable_area = 2131230857;
+			
+			// aapt resource value: 0x7f08009d
+			public const int mr_group_expand_collapse = 2131230877;
 			
 			// aapt resource value: 0x7f080091
-			public const int mr_volume_control = 2131230865;
+			public const int mr_media_main_control = 2131230865;
+			
+			// aapt resource value: 0x7f08008c
+			public const int mr_name = 2131230860;
 			
 			// aapt resource value: 0x7f080092
-			public const int mr_volume_group_list = 2131230866;
+			public const int mr_playback_control = 2131230866;
+			
+			// aapt resource value: 0x7f08008b
+			public const int mr_title_bar = 2131230859;
 			
 			// aapt resource value: 0x7f080094
-			public const int mr_volume_item_icon = 2131230868;
+			public const int mr_volume_control = 2131230868;
 			
 			// aapt resource value: 0x7f080095
-			public const int mr_volume_slider = 2131230869;
+			public const int mr_volume_group_list = 2131230869;
+			
+			// aapt resource value: 0x7f080097
+			public const int mr_volume_item_icon = 2131230871;
+			
+			// aapt resource value: 0x7f080098
+			public const int mr_volume_slider = 2131230872;
 			
 			// aapt resource value: 0x7f080019
 			public const int multiply = 2131230745;
@@ -3087,20 +4528,26 @@ namespace TEditorExemplo.Droid
 			// aapt resource value: 0x7f080026
 			public const int never = 2131230758;
 			
+			// aapt resource value: 0x7f080083
+			public const int new_color_panel = 2131230851;
+			
 			// aapt resource value: 0x7f080014
 			public const int none = 2131230740;
 			
 			// aapt resource value: 0x7f080010
 			public const int normal = 2131230736;
 			
-			// aapt resource value: 0x7f0800aa
-			public const int notification_background = 2131230890;
+			// aapt resource value: 0x7f0800ad
+			public const int notification_background = 2131230893;
 			
-			// aapt resource value: 0x7f0800a4
-			public const int notification_main_column = 2131230884;
+			// aapt resource value: 0x7f0800a7
+			public const int notification_main_column = 2131230887;
 			
-			// aapt resource value: 0x7f0800a3
-			public const int notification_main_column_container = 2131230883;
+			// aapt resource value: 0x7f0800a6
+			public const int notification_main_column_container = 2131230886;
+			
+			// aapt resource value: 0x7f080082
+			public const int old_color_panel = 2131230850;
 			
 			// aapt resource value: 0x7f080037
 			public const int parallax = 2131230775;
@@ -3123,11 +4570,11 @@ namespace TEditorExemplo.Droid
 			// aapt resource value: 0x7f080035
 			public const int right = 2131230773;
 			
-			// aapt resource value: 0x7f0800a9
-			public const int right_icon = 2131230889;
+			// aapt resource value: 0x7f0800ac
+			public const int right_icon = 2131230892;
 			
-			// aapt resource value: 0x7f0800a5
-			public const int right_side = 2131230885;
+			// aapt resource value: 0x7f0800a8
+			public const int right_side = 2131230888;
 			
 			// aapt resource value: 0x7f08001a
 			public const int screen = 2131230746;
@@ -3192,8 +4639,8 @@ namespace TEditorExemplo.Droid
 			// aapt resource value: 0x7f080017
 			public const int showTitle = 2131230743;
 			
-			// aapt resource value: 0x7f0800b2
-			public const int sliding_tabs = 2131230898;
+			// aapt resource value: 0x7f0800b5
+			public const int sliding_tabs = 2131230901;
 			
 			// aapt resource value: 0x7f080073
 			public const int smallLabel = 2131230835;
@@ -3225,8 +4672,8 @@ namespace TEditorExemplo.Droid
 			// aapt resource value: 0x7f080036
 			public const int start = 2131230774;
 			
-			// aapt resource value: 0x7f0800a0
-			public const int status_bar_latest_event_content = 2131230880;
+			// aapt resource value: 0x7f0800a3
+			public const int status_bar_latest_event_content = 2131230883;
 			
 			// aapt resource value: 0x7f08005e
 			public const int submenuarrow = 2131230814;
@@ -3237,11 +4684,11 @@ namespace TEditorExemplo.Droid
 			// aapt resource value: 0x7f080011
 			public const int tabMode = 2131230737;
 			
-			// aapt resource value: 0x7f0800b0
-			public const int text = 2131230896;
+			// aapt resource value: 0x7f0800b3
+			public const int text = 2131230899;
 			
-			// aapt resource value: 0x7f0800ae
-			public const int text2 = 2131230894;
+			// aapt resource value: 0x7f0800b1
+			public const int text2 = 2131230897;
 			
 			// aapt resource value: 0x7f080052
 			public const int textSpacerNoButtons = 2131230802;
@@ -3258,8 +4705,8 @@ namespace TEditorExemplo.Droid
 			// aapt resource value: 0x7f08000d
 			public const int textinput_error = 2131230733;
 			
-			// aapt resource value: 0x7f0800a6
-			public const int time = 2131230886;
+			// aapt resource value: 0x7f0800a9
+			public const int time = 2131230889;
 			
 			// aapt resource value: 0x7f08004a
 			public const int title = 2131230794;
@@ -3270,8 +4717,8 @@ namespace TEditorExemplo.Droid
 			// aapt resource value: 0x7f080057
 			public const int title_template = 2131230807;
 			
-			// aapt resource value: 0x7f0800b3
-			public const int toolbar = 2131230899;
+			// aapt resource value: 0x7f0800bb
+			public const int toolbar = 2131230907;
 			
 			// aapt resource value: 0x7f080029
 			public const int top = 2131230761;
@@ -3297,11 +4744,11 @@ namespace TEditorExemplo.Droid
 			// aapt resource value: 0x7f08000e
 			public const int view_offset_helper = 2131230734;
 			
-			// aapt resource value: 0x7f0800b4
-			public const int visible = 2131230900;
+			// aapt resource value: 0x7f0800bc
+			public const int visible = 2131230908;
 			
-			// aapt resource value: 0x7f080093
-			public const int volume_item_container = 2131230867;
+			// aapt resource value: 0x7f080096
+			public const int volume_item_container = 2131230870;
 			
 			// aapt resource value: 0x7f080027
 			public const int withText = 2131230759;
@@ -3514,85 +4961,91 @@ namespace TEditorExemplo.Droid
 			public const int design_text_input_password_icon = 2130903080;
 			
 			// aapt resource value: 0x7f030029
-			public const int mr_chooser_dialog = 2130903081;
+			public const int dialog_color_picker = 2130903081;
 			
 			// aapt resource value: 0x7f03002a
-			public const int mr_chooser_list_item = 2130903082;
+			public const int mr_chooser_dialog = 2130903082;
 			
 			// aapt resource value: 0x7f03002b
-			public const int mr_controller_material_dialog_b = 2130903083;
+			public const int mr_chooser_list_item = 2130903083;
 			
 			// aapt resource value: 0x7f03002c
-			public const int mr_controller_volume_item = 2130903084;
+			public const int mr_controller_material_dialog_b = 2130903084;
 			
 			// aapt resource value: 0x7f03002d
-			public const int mr_playback_control = 2130903085;
+			public const int mr_controller_volume_item = 2130903085;
 			
 			// aapt resource value: 0x7f03002e
-			public const int mr_volume_control = 2130903086;
+			public const int mr_playback_control = 2130903086;
 			
 			// aapt resource value: 0x7f03002f
-			public const int notification_action = 2130903087;
+			public const int mr_volume_control = 2130903087;
 			
 			// aapt resource value: 0x7f030030
-			public const int notification_action_tombstone = 2130903088;
+			public const int notification_action = 2130903088;
 			
 			// aapt resource value: 0x7f030031
-			public const int notification_media_action = 2130903089;
+			public const int notification_action_tombstone = 2130903089;
 			
 			// aapt resource value: 0x7f030032
-			public const int notification_media_cancel_action = 2130903090;
+			public const int notification_media_action = 2130903090;
 			
 			// aapt resource value: 0x7f030033
-			public const int notification_template_big_media = 2130903091;
+			public const int notification_media_cancel_action = 2130903091;
 			
 			// aapt resource value: 0x7f030034
-			public const int notification_template_big_media_custom = 2130903092;
+			public const int notification_template_big_media = 2130903092;
 			
 			// aapt resource value: 0x7f030035
-			public const int notification_template_big_media_narrow = 2130903093;
+			public const int notification_template_big_media_custom = 2130903093;
 			
 			// aapt resource value: 0x7f030036
-			public const int notification_template_big_media_narrow_custom = 2130903094;
+			public const int notification_template_big_media_narrow = 2130903094;
 			
 			// aapt resource value: 0x7f030037
-			public const int notification_template_custom_big = 2130903095;
+			public const int notification_template_big_media_narrow_custom = 2130903095;
 			
 			// aapt resource value: 0x7f030038
-			public const int notification_template_icon_group = 2130903096;
+			public const int notification_template_custom_big = 2130903096;
 			
 			// aapt resource value: 0x7f030039
-			public const int notification_template_lines_media = 2130903097;
+			public const int notification_template_icon_group = 2130903097;
 			
 			// aapt resource value: 0x7f03003a
-			public const int notification_template_media = 2130903098;
+			public const int notification_template_lines_media = 2130903098;
 			
 			// aapt resource value: 0x7f03003b
-			public const int notification_template_media_custom = 2130903099;
+			public const int notification_template_media = 2130903099;
 			
 			// aapt resource value: 0x7f03003c
-			public const int notification_template_part_chronometer = 2130903100;
+			public const int notification_template_media_custom = 2130903100;
 			
 			// aapt resource value: 0x7f03003d
-			public const int notification_template_part_time = 2130903101;
+			public const int notification_template_part_chronometer = 2130903101;
 			
 			// aapt resource value: 0x7f03003e
-			public const int select_dialog_item_material = 2130903102;
+			public const int notification_template_part_time = 2130903102;
 			
 			// aapt resource value: 0x7f03003f
-			public const int select_dialog_multichoice_material = 2130903103;
+			public const int select_dialog_item_material = 2130903103;
 			
 			// aapt resource value: 0x7f030040
-			public const int select_dialog_singlechoice_material = 2130903104;
+			public const int select_dialog_multichoice_material = 2130903104;
 			
 			// aapt resource value: 0x7f030041
-			public const int support_simple_spinner_dropdown_item = 2130903105;
+			public const int select_dialog_singlechoice_material = 2130903105;
 			
 			// aapt resource value: 0x7f030042
-			public const int Tabbar = 2130903106;
+			public const int support_simple_spinner_dropdown_item = 2130903106;
 			
 			// aapt resource value: 0x7f030043
-			public const int Toolbar = 2130903107;
+			public const int Tabbar = 2130903107;
+			
+			// aapt resource value: 0x7f030044
+			public const int TEditorActivity = 2130903108;
+			
+			// aapt resource value: 0x7f030045
+			public const int Toolbar = 2130903109;
 			
 			static Layout()
 			{
@@ -3600,6 +5053,22 @@ namespace TEditorExemplo.Droid
 			}
 			
 			private Layout()
+			{
+			}
+		}
+		
+		public partial class Menu
+		{
+			
+			// aapt resource value: 0x7f0e0000
+			public const int TopToolbarMenu = 2131623936;
+			
+			static Menu()
+			{
+				global::Android.Runtime.ResourceIdManager.UpdateIdValues();
+			}
+			
+			private Menu()
 			{
 			}
 		}
@@ -3700,14 +5169,29 @@ namespace TEditorExemplo.Droid
 			// aapt resource value: 0x7f090027
 			public const int abc_toolbar_collapse_description = 2131296295;
 			
+			// aapt resource value: 0x7f09003e
+			public const int app_name = 2131296318;
+			
 			// aapt resource value: 0x7f090036
 			public const int appbar_scrolling_view_behavior = 2131296310;
 			
 			// aapt resource value: 0x7f090037
 			public const int bottom_sheet_behavior = 2131296311;
 			
+			// aapt resource value: 0x7f090042
+			public const int button_color_picker_alpha = 2131296322;
+			
+			// aapt resource value: 0x7f090041
+			public const int button_color_picker_noalpha = 2131296321;
+			
+			// aapt resource value: 0x7f090043
+			public const int button_color_picker_round = 2131296323;
+			
 			// aapt resource value: 0x7f090038
 			public const int character_counter_pattern = 2131296312;
+			
+			// aapt resource value: 0x7f09003f
+			public const int dialog_color_picker = 2131296319;
 			
 			// aapt resource value: 0x7f090000
 			public const int mr_button_content_description = 2131296256;
@@ -3787,6 +5271,9 @@ namespace TEditorExemplo.Droid
 			// aapt resource value: 0x7f09003d
 			public const int path_password_strike_through = 2131296317;
 			
+			// aapt resource value: 0x7f090040
+			public const int press_color_to_apply = 2131296320;
+			
 			// aapt resource value: 0x7f090028
 			public const int search_menu_title = 2131296296;
 			
@@ -3821,8 +5308,8 @@ namespace TEditorExemplo.Droid
 			// aapt resource value: 0x7f0b0170
 			public const int Animation_Design_BottomSheetDialog = 2131427696;
 			
-			// aapt resource value: 0x7f0b018b
-			public const int AppCompatDialogStyle = 2131427723;
+			// aapt resource value: 0x7f0b018c
+			public const int AppCompatDialogStyle = 2131427724;
 			
 			// aapt resource value: 0x7f0b00b2
 			public const int Base_AlertDialog_AppCompat = 2131427506;
@@ -4298,11 +5785,11 @@ namespace TEditorExemplo.Droid
 			// aapt resource value: 0x7f0b000e
 			public const int CardView_Light = 2131427342;
 			
-			// aapt resource value: 0x7f0b0189
-			public const int MainTheme = 2131427721;
-			
 			// aapt resource value: 0x7f0b018a
-			public const int MainTheme_Base = 2131427722;
+			public const int MainTheme = 2131427722;
+			
+			// aapt resource value: 0x7f0b018b
+			public const int MainTheme_Base = 2131427723;
 			
 			// aapt resource value: 0x7f0b002d
 			public const int Platform_AppCompat = 2131427373;
@@ -4675,6 +6162,9 @@ namespace TEditorExemplo.Droid
 			
 			// aapt resource value: 0x7f0b011e
 			public const int Theme_AppCompat_NoActionBar = 2131427614;
+			
+			// aapt resource value: 0x7f0b0189
+			public const int Theme_AppCompat_NoActionBar_FullScreen = 2131427721;
 			
 			// aapt resource value: 0x7f0b017a
 			public const int Theme_Design = 2131427706;

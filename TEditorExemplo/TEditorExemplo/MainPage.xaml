@@ -2,10 +2,12 @@
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              xmlns:local="clr-namespace:TEditorExemplo"
-             x:Class="TEditorExemplo.MainPage">
+             x:Class="TEditorExemplo.MainPage" Padding="0,20,0,0">
 
-	<Label Text="Welcome to Xamarin.Forms!" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
+    <StackLayout>
+        <Label Text="Editor HTML"  />
+        <WebView x:Name="wEditor"></WebView>
+    </StackLayout>
+	
 
 </ContentPage>
