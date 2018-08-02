@@ -13,7 +13,8 @@ namespace TEditorExemplo
 		{
 			InitializeComponent();
 
-			MainPage = new TEditorExemplo.MainPage();
+			//MainPage = new TEditorExemplo.MainPage();
+            this.MainPage = new NavigationPage(new ContentPage { Content = new TEditorExemploView(), BackgroundColor = Color.White });
 		}
 
 		protected override void OnStart ()
